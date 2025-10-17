@@ -1,0 +1,825 @@
+season,team,number,player,year,position,gp,gs,goals,assists,points,year_num,year_std,position_zone,position_group
+2023-24,ubc,9,sebastian dzikowski,Jr,F,16,16.0,15,4,19,3,3rd,F,FOR
+2023-24,ubc,28,markus kaiser,Jr,M,16,16.0,0,3,3,3,3rd,M,MID
+2023-24,ubc,11,brennan fuerst,Fr,M,15,15.0,2,1,3,1,1st,M,MID
+2023-24,ubc,13,eric lajeunesse,So,D,15,15.0,1,1,2,2,2nd,D,DEF
+2023-24,ubc,8,chris lee,So,D,15,15.0,2,5,7,2,2nd,D,DEF
+2023-24,ubc,10,connor mrazek,Jr,M,15,6.0,5,2,7,3,3rd,M,MID
+2023-24,ubc,14,logan chung,Sr,F,14,10.0,0,0,0,4,4th,F,FOR
+2023-24,ubc,1,bennett mckay,Jr,GK,14,14.0,0,0,0,3,3rd,GK,GK
+2023-24,ubc,24,luke norman,Fr,M,14,11.0,4,5,9,1,1st,M,MID
+2023-24,ubc,35,thomas pena,Fr,F,14,8.0,4,2,6,1,1st,F,FOR
+2023-24,ubc,7,bradley richardson,Sr,F,14,7.0,2,1,3,4,4th,F,FOR
+2023-24,ubc,2,eric white,Fr,D,13,12.0,0,0,0,1,1st,D,DEF
+2023-24,ubc,3,noah hrdlicka,Jr,D,12,12.0,0,0,0,3,3rd,D,DEF
+2023-24,ubc,27,joshua tome,Fr,D,12,6.0,0,0,0,1,1st,D,DEF
+2023-24,ubc,6,sam aiello,Jr,M,11,1.0,0,0,0,3,3rd,M,MID
+2023-24,ubc,26,asvin chauhan,So,M,11,2.0,1,2,3,2,2nd,M,MID
+2023-24,ubc,4,chris fisher,Sr,D,5,2.0,0,0,0,4,4th,D,DEF
+2023-24,ubc,16,eric kim,Fr,D,5,3.0,2,1,3,1,1st,D,DEF
+2023-24,ubc,31,brandon momotani,So,M,4,2.0,1,0,1,2,2nd,M,MID
+2023-24,ubc,15,oliver herbert,Fr,M,3,0.0,0,0,0,1,1st,M,MID
+2023-24,ubc,23,nicholas momotani,Jr,M,2,0.0,0,0,0,3,3rd,M,MID
+2023-24,ubc,22,axel thulin lennselius,Jr,GK,2,2.0,0,0,0,3,3rd,GK,GK
+2023-24,ubc,30,jack garner,Fr,GK,1,0.0,0,0,0,1,1st,GK,GK
+2023-24,ubc,17,manmeet jhutty,So,M,1,0.0,0,0,0,2,2nd,M,MID
+2023-24,ubc,20,marcus puhalj,Jr,D,1,1.0,0,0,0,3,3rd,D,DEF
+2023-24,ubc,21,michael weiland,Fr,D,1,0.0,0,0,0,1,1st,D,DEF
+2023-24,ufv,8,kian proctor,,F,16,16.0,5,6,11,0,UNK,F,FOR
+2023-24,ufv,13,adriano consiglio,,M,15,15.0,0,2,2,0,UNK,M,MID
+2023-24,ufv,9,parmbir kular,,M,14,9.0,0,0,0,0,UNK,M,MID
+2023-24,ufv,4,carson muter,,D,14,13.0,1,0,1,0,UNK,D,DEF
+2023-24,ufv,12,bhagvir sidhu,,D,14,12.0,0,1,1,0,UNK,D,DEF
+2023-24,ufv,5,william stuart,,M,14,14.0,0,2,2,0,UNK,M,MID
+2023-24,ufv,18,michael beecroft,,D,12,6.0,2,0,2,0,UNK,D,DEF
+2023-24,ufv,17,roland mansell,,F,12,3.0,1,0,1,0,UNK,F,FOR
+2023-24,ufv,24,tyler sayers,,M,12,9.0,0,1,1,0,UNK,M,MID
+2023-24,ufv,22,adam szymanski,,D,12,10.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,14,dylan lee,,D,11,1.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,6,gurnaj sidhu,,D,11,8.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,7,mateo brazinha,,F,10,9.0,3,0,3,0,UNK,F,FOR
+2023-24,ufv,25,jackson cowx,,GK,10,10.0,0,0,0,0,UNK,GK,GK
+2023-24,ufv,16,jeevan dhaliwal,,F,10,9.0,2,1,3,0,UNK,F,FOR
+2023-24,ufv,21,brede kidd,,,10,1.0,0,0,0,0,UNK,UNK,UNK
+2023-24,ufv,20,kadir yagci,,D,9,4.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,19,manpal brar,,F,8,7.0,1,0,1,0,UNK,F,FOR
+2023-24,ufv,11,kevin mailand,,M,8,5.0,1,1,2,0,UNK,M,MID
+2023-24,ufv,29,aiden thompson,,D,7,1.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,31,kody torrance,,GK,7,6.0,0,0,0,0,UNK,GK,GK
+2023-24,ufv,2,nicolas burret,,D,5,4.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,23,rylan mackie,,D,5,0.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,3,dulain panditha,,D,4,4.0,0,0,0,0,UNK,D,DEF
+2023-24,ufv,28,sebastian insley,,M,3,0.0,0,0,0,0,UNK,M,MID
+2023-24,calgary,7,dominic anamali,Fr,F,14,8.0,2,2,4,1,1st,F,FOR
+2023-24,calgary,9,derek brust,Sr,F,14,10.0,2,0,2,4,4th,F,FOR
+2023-24,calgary,24,liam hunter,Sr,GK,14,14.0,0,0,0,4,4th,GK,GK
+2023-24,calgary,13,li ramaholison,Fr,M,14,4.0,0,0,0,1,1st,M,MID
+2023-24,calgary,4,victor gouttin,So,D,13,12.0,1,1,2,2,2nd,D,DEF
+2023-24,calgary,14,james greco-taylor,Jr,M,13,13.0,4,2,6,3,3rd,M,MID
+2023-24,calgary,16,edomias nesibu,Fr,M,13,5.0,1,1,2,1,1st,M,MID
+2023-24,calgary,10,gianmarco plenzik,Jr,M,13,13.0,3,1,4,3,3rd,M,MID
+2023-24,calgary,3,milan ponjevic,So,D,13,11.0,0,0,0,2,2nd,D,DEF
+2023-24,calgary,17,aidan izadi,Jr,M,12,7.0,2,1,3,3,3rd,M,MID
+2023-24,calgary,5,joey plenzik,So,D,11,11.0,0,0,0,2,2nd,D,DEF
+2023-24,calgary,11,william omoreniye,So,D,10,9.0,3,1,4,2,2nd,D,DEF
+2023-24,calgary,8,nahum tsegai,Sr,D,10,10.0,0,0,0,4,4th,D,DEF
+2023-24,calgary,12,soliman aria,Jr,M,9,7.0,1,2,3,3,3rd,M,MID
+2023-24,calgary,18,josral frederick,Fr,F,7,1.0,0,1,1,1,1st,F,FOR
+2023-24,calgary,2,doohyeon kim,Jr,D,7,6.0,0,0,0,3,3rd,D,DEF
+2023-24,calgary,23,kundai dziwa,Jr,M,6,5.0,1,1,2,3,3rd,M,MID
+2023-24,calgary,21,felipe raed di bari,So,M,5,0.0,0,0,0,2,2nd,M,MID
+2023-24,calgary,22,james welsh,Fr,D,5,4.0,0,0,0,1,1st,D,DEF
+2023-24,calgary,20,owen antoniuk,So,M,3,3.0,0,1,1,2,2nd,M,MID
+2023-24,calgary,25,hudson bergdoll,Fr,M,2,0.0,0,0,0,1,1st,M,MID
+2023-24,calgary,27,william fiore,Sr,M,1,1.0,0,0,0,4,4th,M,MID
+2023-24,victoria,26,aiden grew,,DEF,16,15.0,3,2,5,0,UNK,DEF,DEF
+2023-24,victoria,17,matthew pearse,,MID,16,6.0,5,1,6,0,UNK,MID,DEF
+2023-24,victoria,4,javier sagaste,,MID,16,16.0,6,6,12,0,UNK,MID,DEF
+2023-24,victoria,2,fin tugwell,,DEF,16,16.0,1,0,1,0,UNK,DEF,DEF
+2023-24,victoria,30,callum weir,,GK,16,16.0,0,0,0,0,UNK,GK,GK
+2023-24,victoria,13,remi barbot,,FOR,15,1.0,1,1,2,0,UNK,FOR,FOR
+2023-24,victoria,7,yassin guitouni,,MID,15,15.0,2,0,2,0,UNK,MID,DEF
+2023-24,victoria,18,alex moody,,DEF,15,15.0,0,0,0,0,UNK,DEF,DEF
+2023-24,victoria,21,jimmy steel,,MID,15,15.0,1,3,4,0,UNK,MID,DEF
+2023-24,victoria,19,harry ritter west,,FOR,14,1.0,0,1,1,0,UNK,FOR,FOR
+2023-24,victoria,5,archie tugwell,,DEF,14,14.0,0,0,0,0,UNK,DEF,DEF
+2023-24,victoria,14,ole cameron,,MID,12,5.0,0,0,0,0,UNK,MID,DEF
+2023-24,victoria,3,jordan mckinty,,DEF,12,12.0,0,4,4,0,UNK,DEF,DEF
+2023-24,victoria,22,jag zaharia,,DEF,12,7.0,1,0,1,0,UNK,DEF,DEF
+2023-24,victoria,9,kaelan cooke,,FOR,9,9.0,1,1,2,0,UNK,FOR,FOR
+2023-24,victoria,8,connor legge,,MID,9,9.0,1,0,1,0,UNK,MID,DEF
+2023-24,victoria,11,mattheus achadinha,,DEF,6,1.0,1,0,1,0,UNK,DEF,DEF
+2023-24,victoria,20,evan larson,,MID,5,1.0,1,0,1,0,UNK,MID,DEF
+2023-24,victoria,16,matteo hilton,,MID,3,0.0,0,0,0,0,UNK,MID,DEF
+2023-24,victoria,12,valentin kirchner,,DEF,3,1.0,0,0,0,0,UNK,DEF,DEF
+2023-24,victoria,10,jack napier-ganley,,MID,2,1.0,0,0,0,0,UNK,MID,DEF
+2023-24,victoria,24,takin marvasti,,DEF,1,0.0,0,0,0,0,UNK,DEF,DEF
+2023-24,victoria,1,jared perras,,GK,1,0.0,0,0,0,0,UNK,GK,GK
+2023-24,victoria,23,manchand virk,,DEF,1,0.0,0,0,0,0,UNK,DEF,DEF
+2023-24,unbc,2,julian daduica,,D,15,7.0,0,0,0,0,UNK,D,DEF
+2023-24,unbc,20,james jordan,,M,15,12.0,0,0,0,0,UNK,M,MID
+2023-24,unbc,13,isaac tate,,M,15,15.0,1,3,4,0,UNK,M,MID
+2023-24,unbc,27,daniel zadravec,,GK,15,15.0,0,0,0,0,UNK,GK,GK
+2023-24,unbc,10,ibrahim ezletni,,F,14,2.0,0,0,0,0,UNK,F,FOR
+2023-24,unbc,17,connor lewis,,F,14,10.0,3,2,5,0,UNK,F,FOR
+2023-24,unbc,22,colin stauffer,,M,14,9.0,2,0,2,0,UNK,M,MID
+2023-24,unbc,23,theo tate,,M,14,10.0,0,1,1,0,UNK,M,MID
+2023-24,unbc,15,anton zadonsky,,M,14,12.0,0,0,0,0,UNK,M,MID
+2023-24,unbc,9,michael henman,,F,13,13.0,5,2,7,0,UNK,F,FOR
+2023-24,unbc,7,gregor smith,,M,13,13.0,1,1,2,0,UNK,M,MID
+2023-24,unbc,14,charlie stewart,,M,13,5.0,2,2,4,0,UNK,M,MID
+2023-24,unbc,19,maarten grombein,,D,12,11.0,0,0,0,0,UNK,D,DEF
+2023-24,unbc,21,koss nystedt,,D,12,12.0,1,0,1,0,UNK,D,DEF
+2023-24,unbc,26,zack sidhu,,D,11,8.0,0,0,0,0,UNK,D,DEF
+2023-24,unbc,24,wyatt lyon,,M,9,8.0,0,1,1,0,UNK,M,MID
+2023-24,unbc,11,alberto kuri,,F,8,1.0,1,0,1,0,UNK,F,FOR
+2023-24,unbc,5,noah ballinger,,M,7,0.0,1,1,2,0,UNK,M,MID
+2023-24,unbc,12,brady vojvodic,,M,7,1.0,0,0,0,0,UNK,M,MID
+2023-24,unbc,16,trevor scott,,M,5,0.0,0,0,0,0,UNK,M,MID
+2023-24,unbc,3,adam korduner,,D,2,0.0,0,0,0,0,UNK,D,DEF
+2023-24,unbc,18,demian dron,,D,1,1.0,0,0,0,0,UNK,D,DEF
+2023-24,mount royal,1,aidan dumoulin,,GK,14,14.0,0,0,0,0,UNK,GK,GK
+2023-24,mount royal,7,josh flaksman,,F,14,13.0,4,2,6,0,UNK,F,FOR
+2023-24,mount royal,27,ruben michael koudelka,,D,14,10.0,0,0,0,0,UNK,D,DEF
+2023-24,mount royal,2,william libbey,,D,14,3.0,0,0,0,0,UNK,D,DEF
+2023-24,mount royal,13,skyler rogers,,M,14,12.0,0,2,2,0,UNK,M,MID
+2023-24,mount royal,11,david schaefer,,F,14,14.0,10,1,11,0,UNK,F,FOR
+2023-24,mount royal,4,ethan keen,,D,13,12.0,0,1,1,0,UNK,D,DEF
+2023-24,mount royal,28,nikolas meyer,,F,13,13.0,2,2,4,0,UNK,F,FOR
+2023-24,mount royal,5,caden rogozinski,,D,13,13.0,0,0,0,0,UNK,D,DEF
+2023-24,mount royal,18,mowbray beghin,,F,12,0.0,1,0,1,0,UNK,F,FOR
+2023-24,mount royal,9,dawid dudek,,F,12,1.0,1,0,1,0,UNK,F,FOR
+2023-24,mount royal,8,nikolas myroniuk,,M,12,12.0,4,0,4,0,UNK,M,MID
+2023-24,mount royal,14,abel nesibu,,D,12,10.0,1,3,4,0,UNK,D,DEF
+2023-24,mount royal,10,jonathan walter,,M,12,11.0,1,1,2,0,UNK,M,MID
+2023-24,mount royal,26,alex kemsley,,D,11,10.0,0,1,1,0,UNK,D,DEF
+2023-24,mount royal,15,hyunsoo ryu,,D,8,2.0,0,0,0,0,UNK,D,DEF
+2023-24,mount royal,3,finn marshall,,F,6,0.0,0,0,0,0,UNK,F,FOR
+2023-24,mount royal,6,benedikt mehl,,M,5,3.0,0,0,0,0,UNK,M,MID
+2023-24,mount royal,19,wyatt davis,,D,4,0.0,0,0,0,0,UNK,D,DEF
+2023-24,mount royal,20,miguel da rocha,,M,3,1.0,1,0,1,0,UNK,M,MID
+2023-24,alberta,11,habib assem,So,F,13,5.0,3,0,3,2,2nd,F,FOR
+2023-24,alberta,3,joel martins-correia,So,D,13,12.0,0,2,2,2,2nd,D,DEF
+2023-24,alberta,27,adam parker,Jr,F,13,13.0,0,0,0,3,3rd,F,FOR
+2023-24,alberta,9,marcus velado-tsegaye,2nd,F,13,13.0,4,2,6,2,2nd,F,FOR
+2023-24,alberta,14,rodane cato,Jr,MID,12,12.0,0,0,0,3,3rd,MID,DEF
+2023-24,alberta,1,chris ezoua,Sr,GK,12,12.0,0,0,0,4,4th,GK,GK
+2023-24,alberta,8,thomas hope,So,D,12,12.0,0,0,0,2,2nd,D,DEF
+2023-24,alberta,10,rilind idrizi,Jr,MID,12,12.0,2,4,6,3,3rd,MID,DEF
+2023-24,alberta,16,prince amanda,So,F,11,11.0,3,0,3,2,2nd,F,FOR
+2023-24,alberta,6,jake bosch,Jr,MID,11,11.0,0,1,1,3,3rd,MID,DEF
+2023-24,alberta,12,eric gehlert,Jr,D,11,11.0,0,1,1,3,3rd,D,DEF
+2023-24,alberta,18,jackson belbin,Fr,D,10,2.0,0,0,0,1,1st,D,DEF
+2023-24,alberta,17,frankroy cain,Fr,F,10,4.0,2,0,2,1,1st,F,FOR
+2023-24,alberta,23,david chung,Jr,MID,10,7.0,1,1,2,3,3rd,MID,DEF
+2023-24,alberta,4,patrick kondraciuk,Fr,D,6,2.0,0,0,0,1,1st,D,DEF
+2023-24,alberta,2,dylan marple,Fr,D,5,1.0,0,0,0,1,1st,D,DEF
+2023-24,alberta,19,raqeeb popoola,Jr,F,3,1.0,0,0,0,3,3rd,F,FOR
+2023-24,alberta,21,liam collens,Jr,GK,1,1.0,0,0,0,3,3rd,GK,GK
+2023-24,alberta,30,alex dorscheid,Jr,GK,1,0.0,0,0,0,3,3rd,GK,GK
+2023-24,alberta,20,kyler kaluzniak,Fr,D,1,1.0,0,0,0,1,1st,D,DEF
+2023-24,lethbridge,19,nicholas bilodeau,,D,14,5.0,0,0,0,0,UNK,D,DEF
+2023-24,lethbridge,2,damon field,,D,14,14.0,1,0,1,0,UNK,D,DEF
+2023-24,lethbridge,3,ben gingras,,MF,14,2.0,0,0,0,0,UNK,MF,MID
+2023-24,lethbridge,14,cole rosenlund,,MF,14,13.0,0,0,0,0,UNK,MF,MID
+2023-24,lethbridge,20,kai sakaguchi,,F,14,14.0,3,0,3,0,UNK,F,FOR
+2023-24,lethbridge,30,armaan thawer,,GK,14,14.0,0,0,0,0,UNK,GK,GK
+2023-24,lethbridge,11,alasdair coyle,,MF,13,13.0,4,0,4,0,UNK,MF,MID
+2023-24,lethbridge,17,david musk,,MF,13,3.0,0,0,0,0,UNK,MF,MID
+2023-24,lethbridge,9,simon rolfson,,F,13,11.0,0,0,0,0,UNK,F,FOR
+2023-24,lethbridge,22,jeremy dalla,,D,12,10.0,0,0,0,0,UNK,D,DEF
+2023-24,lethbridge,8,will hughes,,D,12,11.0,6,5,11,0,UNK,D,DEF
+2023-24,lethbridge,18,cole jackson,,F,12,3.0,0,0,0,0,UNK,F,FOR
+2023-24,lethbridge,24,kyle szymanski,,D,12,5.0,0,0,0,0,UNK,D,DEF
+2023-24,lethbridge,6,thomas denness,,D,11,9.0,0,0,0,0,UNK,D,DEF
+2023-24,lethbridge,25,karim bachir,,MF,10,10.0,4,1,5,0,UNK,MF,MID
+2023-24,lethbridge,23,tyrell cook,,F,10,3.0,0,0,0,0,UNK,F,FOR
+2023-24,lethbridge,10,danilo morales,,F,10,7.0,1,0,1,0,UNK,F,FOR
+2023-24,lethbridge,26,abraham efunbajo,,F,7,3.0,0,0,0,0,UNK,F,FOR
+2023-24,lethbridge,27,ziad el hasumi,,D,6,1.0,0,0,0,0,UNK,D,DEF
+2023-24,lethbridge,12,sam popowich,,F,3,1.0,0,0,0,0,UNK,F,FOR
+2023-24,lethbridge,7,adam turner,,MF,3,0.0,0,0,0,0,UNK,MF,MID
+2023-24,lethbridge,16,nathaniel riemer,,D,2,1.0,0,0,0,0,UNK,D,DEF
+2023-24,lethbridge,21,cadel goertzen,,F,1,0.0,0,0,0,0,UNK,F,FOR
+2023-24,trinity western,11,charles nana,JR,F,15,10.0,4,0,4,3,3rd,F,FOR
+2023-24,trinity western,22,francis powell,JR,M,15,12.0,0,0,0,3,3rd,M,MID
+2023-24,trinity western,10,thomas powell,JR,M,15,15.0,4,3,7,3,3rd,M,MID
+2023-24,trinity western,21,luca alberti,JR,D,14,4.0,2,4,6,3,3rd,D,DEF
+2023-24,trinity western,19,mario banovic,SO,D,14,14.0,1,1,2,2,2nd,D,DEF
+2023-24,trinity western,5,adam hajdecki,JR,D,14,14.0,0,0,0,3,3rd,D,DEF
+2023-24,trinity western,17,christian rossi,JR,F,14,8.0,1,2,3,3,3rd,F,FOR
+2023-24,trinity western,8,xander roxburgh,JR,M,14,4.0,3,1,4,3,3rd,M,MID
+2023-24,trinity western,6,joey seo,JR,M,14,10.0,0,2,2,3,3rd,M,MID
+2023-24,trinity western,4,vito de cotiis,FR,D,13,13.0,0,1,1,1,1st,D,DEF
+2023-24,trinity western,15,aiden evans,FR,D,11,9.0,0,0,0,1,1st,D,DEF
+2023-24,trinity western,7,keishean francois,SO,F,11,6.0,1,2,3,2,2nd,F,FOR
+2023-24,trinity western,30,yeshua silwamba,JR,GK,11,11.0,0,0,0,3,3rd,GK,GK
+2023-24,trinity western,27,kieran eve,SO,M,10,8.0,0,0,0,2,2nd,M,MID
+2023-24,trinity western,24,jonny grant,JR,D,10,4.0,0,0,0,3,3rd,D,DEF
+2023-24,trinity western,12,jace wiebe,FR,F,9,3.0,1,0,1,1,1st,F,FOR
+2023-24,trinity western,20,jordan low,SO,M,8,7.0,1,1,2,2,2nd,M,MID
+2023-24,trinity western,26,malcolm kengni,FR,M,6,1.0,1,0,1,1,1st,M,MID
+2023-24,trinity western,3,mikey dale,JR,D,5,3.0,0,0,0,3,3rd,D,DEF
+2023-24,trinity western,33,jordan marwood,SR,GK,4,4.0,0,0,0,4,4th,GK,GK
+2023-24,trinity western,14,marcel bona,FR,M,3,2.0,1,0,1,1,1st,M,MID
+2023-24,trinity western,16,kosta adzic,FR,D,2,1.0,0,0,0,1,1st,D,DEF
+2023-24,trinity western,34,stefan martinelli,FR,D,1,0.0,0,0,0,1,1st,D,DEF
+2023-24,trinity western,2,sam northcott,FR,D,1,1.0,0,0,0,1,1st,D,DEF
+2023-24,trinity western,32,josh reinhard,FR,D,1,0.0,0,0,0,1,1st,D,DEF
+2023-24,trinity western,36,david saavedra,FR,F,1,0.0,0,0,0,1,1st,F,FOR
+2023-24,saskatchewan,7,ethan cabral,So,W,14,10.0,3,0,3,2,2nd,W,FOR
+2023-24,saskatchewan,15,robert mackay,Jr,M,14,11.0,0,1,1,3,3rd,M,MID
+2023-24,saskatchewan,10,diego reveco,So,M,14,12.0,3,3,6,2,2nd,M,MID
+2023-24,saskatchewan,1,jaron slopinski,So,GK,14,14.0,0,0,0,2,2nd,GK,GK
+2023-24,saskatchewan,9,robert woodroffe-brown,Fr,ST,14,8.0,2,0,2,1,1st,ST,FOR
+2023-24,saskatchewan,12,luke mackie,Jr,M,13,13.0,0,0,0,3,3rd,M,MID
+2023-24,saskatchewan,11,ahmed mohammed,Jr,F,13,13.0,1,0,1,3,3rd,F,FOR
+2023-24,saskatchewan,17,sergio molina,So,FB,13,13.0,0,0,0,2,2nd,FB,DEF
+2023-24,saskatchewan,2,zach edwards,Sr,CB,12,12.0,0,0,0,4,4th,CB,DEF
+2023-24,saskatchewan,3,julian calderon,So,FB,11,9.0,0,0,0,2,2nd,FB,DEF
+2023-24,saskatchewan,4,kevin garic,Sr,D,11,11.0,0,0,0,4,4th,D,DEF
+2023-24,saskatchewan,8,matthew hnatiw,So,M,11,7.0,0,0,0,2,2nd,M,MID
+2023-24,saskatchewan,5,holden mcleay,Fr,D,10,3.0,0,0,0,1,1st,D,DEF
+2023-24,saskatchewan,13,gabriele altomare,Fr,FB,9,3.0,0,0,0,1,1st,FB,DEF
+2023-24,saskatchewan,14,rajesh rodney,So,ST,9,3.0,1,0,1,2,2nd,ST,FOR
+2023-24,saskatchewan,25,misgana killoh,So,M,7,1.0,0,0,0,2,2nd,M,MID
+2023-24,saskatchewan,19,joshua malin,So,M,6,2.0,0,0,0,2,2nd,M,MID
+2023-24,saskatchewan,24,daler tokhirov,So,W,5,5.0,0,0,0,2,2nd,W,FOR
+2023-24,saskatchewan,16,alessandro calado,So,M,4,4.0,0,0,0,2,2nd,M,MID
+2023-24,saskatchewan,23,ty lee,Fr,M,4,0.0,0,0,0,1,1st,M,MID
+2023-24,saskatchewan,18,aydin wiebe,So,M,2,0.0,0,0,0,2,2nd,M,MID
+2023-24,macewan,6,abass ajibade,,M,14,14.0,1,0,1,0,UNK,M,MID
+2023-24,macewan,11,nicolas luczkiewicz,,M,14,13.0,0,4,4,0,UNK,M,MID
+2023-24,macewan,29,philip masri,,F,14,14.0,6,2,8,0,UNK,F,FOR
+2023-24,macewan,13,shameiks mcleod,,M,14,12.0,0,0,0,0,UNK,M,MID
+2023-24,macewan,25,antony caceres,,M,12,7.0,4,1,5,0,UNK,M,MID
+2023-24,macewan,14,kayden dugas,,F,12,7.0,2,1,3,0,UNK,F,FOR
+2023-24,macewan,5,jakob sievert,,M,12,12.0,0,1,1,0,UNK,M,MID
+2023-24,macewan,7,rakan yassin,,F,12,12.0,2,0,2,0,UNK,F,FOR
+2023-24,macewan,8,ali yildiz,,M,12,8.0,1,1,2,0,UNK,M,MID
+2023-24,macewan,2,chance carter,,M,10,10.0,0,1,1,0,UNK,M,MID
+2023-24,macewan,20,stewart jamieson,,D,10,9.0,0,1,1,0,UNK,D,DEF
+2023-24,macewan,31,marko ilich,,GK,9,9.0,0,0,0,0,UNK,GK,GK
+2023-24,macewan,17,felix guite,,M,8,2.0,1,0,1,0,UNK,M,MID
+2023-24,macewan,3,ernest sungura-bilebwa,,D,8,5.0,0,0,0,0,UNK,D,DEF
+2023-24,macewan,18,egzon jetishi,,M,6,4.0,1,1,2,0,UNK,M,MID
+2023-24,macewan,30,david sithole,,GK,6,5.0,0,0,0,0,UNK,GK,GK
+2023-24,macewan,23,sam vieira,,,6,5.0,0,1,1,0,UNK,UNK,UNK
+2023-24,macewan,19,t-boy fayia,,D,5,5.0,0,0,0,0,UNK,D,DEF
+2023-24,macewan,16,zewdu mekonnen,,F,5,0.0,0,0,0,0,UNK,F,FOR
+2023-24,macewan,33,brennan kahler,,D,3,0.0,0,0,0,0,UNK,D,DEF
+2023-24,macewan,15,abhiroop sandhu,,M,3,0.0,0,0,0,0,UNK,M,MID
+2023-24,macewan,10,michael enes,,M,2,1.0,0,0,0,0,UNK,M,MID
+2023-24,macewan,24,ola ojo-mabayoje,,M,1,0.0,0,0,0,0,UNK,M,MID
+2023-24,macewan,27,nick stefansson,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2023-24,thompson rivers,21,alesandro comita,So,M,15,15.0,1,2,3,2,2nd,M,MID
+2023-24,thompson rivers,7,dylan hooper,Sr,F,15,1.0,3,1,4,4,4th,F,FOR
+2023-24,thompson rivers,22,harry taylor,So,D,15,15.0,1,1,2,2,2nd,D,DEF
+2023-24,thompson rivers,5,elijah dos santos,So,D,14,14.0,0,2,2,2,2nd,D,DEF
+2023-24,thompson rivers,10,patrick izett,Sr,M,14,14.0,4,4,8,4,4th,M,MID
+2023-24,thompson rivers,4,dylan pauw,Jr,D,14,12.0,1,0,1,3,3rd,D,DEF
+2023-24,thompson rivers,12,jonathan rinaldi,Jr,M,14,14.0,2,0,2,3,3rd,M,MID
+2023-24,thompson rivers,15,marques scott,Sr,M,14,13.0,0,1,1,4,4th,M,MID
+2023-24,thompson rivers,8,mikkel rosenlund,Sr,D,13,12.0,1,2,3,4,4th,D,DEF
+2023-24,thompson rivers,6,akwasi agyekum,Jr,M,12,12.0,1,1,2,3,3rd,M,MID
+2023-24,thompson rivers,2,domenico comita,So,D,12,4.0,0,0,0,2,2nd,D,DEF
+2023-24,thompson rivers,11,jost hausendorf,Sr,F,12,7.0,0,0,0,4,4th,F,FOR
+2023-24,thompson rivers,9,ryan lewis,Jr,F,12,12.0,4,1,5,3,3rd,F,FOR
+2023-24,thompson rivers,16,michael ojo,So,M,12,5.0,1,1,2,2,2nd,M,MID
+2023-24,thompson rivers,31,svyatik artemenko,So,GK,10,10.0,0,0,0,2,2nd,GK,GK
+2023-24,thompson rivers,17,denzel marican,Sr,M,7,0.0,0,0,0,4,4th,M,MID
+2023-24,thompson rivers,30,olivier jumeau,Sr,GK,6,5.0,0,0,0,4,4th,GK,GK
+2023-24,thompson rivers,20,ethan furlong,Sr,D,4,0.0,0,0,0,4,4th,D,DEF
+2023-24,thompson rivers,19,ryan olak,Fr,M,2,0.0,0,0,0,1,1st,M,MID
+2023-24,thompson rivers,26,liam freathy,Fr,D,1,0.0,0,0,0,1,1st,D,DEF
+2023-24,thompson rivers,23,soren kaczor,Fr,M,1,0.0,0,0,0,1,1st,M,MID
+2023-24,thompson rivers,13,steffen masaites,Sr,D,1,0.0,0,0,0,4,4th,D,DEF
+2024-25,ubc,11,brennen fuerst,So,M,15,13.0,0,3,3,2,2nd,M,MID
+2024-25,ubc,35,henri godbout,Fr,F,15,14.0,7,5,12,1,1st,F,FOR
+2024-25,ubc,8,chris lee,Jr,D,15,15.0,4,3,7,3,3rd,D,DEF
+2024-25,ubc,12,joven mann,Fr,M,15,11.0,2,1,3,1,1st,M,MID
+2024-25,ubc,1,bennett mckay,Sr,GK,15,15.0,0,0,0,4,4th,GK,GK
+2024-25,ubc,13,eric lajeunesse,Jr,D,14,14.0,0,0,0,3,3rd,D,DEF
+2024-25,ubc,19,jost hausendorf,Sr,F,13,4.0,2,1,3,4,4th,F,FOR
+2024-25,ubc,14,oliver herbert,So,M,13,7.0,2,2,4,2,2nd,M,MID
+2024-25,ubc,6,noah hrdlicka,Sr,D,13,12.0,0,1,1,4,4th,D,DEF
+2024-25,ubc,28,markus kaiser,Sr,M,13,10.0,0,1,1,4,4th,M,MID
+2024-25,ubc,24,luke norman,So,M,13,9.0,6,2,8,2,2nd,M,MID
+2024-25,ubc,7,thomas pena,So,F,13,5.0,1,0,1,2,2nd,F,FOR
+2024-25,ubc,10,connor mrazek,Sr,M,11,4.0,1,1,2,4,4th,M,MID
+2024-25,ubc,4,marcus puhalj,Sr,D,11,11.0,0,1,1,4,4th,D,DEF
+2024-25,ubc,26,asvin chauhan,Jr,F,10,6.0,0,1,1,3,3rd,F,FOR
+2024-25,ubc,9,max comsia,Fr,F,10,7.0,3,0,3,1,1st,F,FOR
+2024-25,ubc,2,lucas dasovic,Fr,D,7,7.0,0,0,0,1,1st,D,DEF
+2024-25,ubc,3,joshua toma,So,D,6,1.0,0,0,0,2,2nd,D,DEF
+2024-25,ubc,23,patrick braun,Fr,M,2,0.0,1,0,1,1,1st,M,MID
+2024-25,ubc,16,eric kim,So,D,2,0.0,0,1,1,2,2nd,D,DEF
+2024-25,ubc,5,jordano pinto,Sr,M,2,0.0,0,0,0,4,4th,M,MID
+2024-25,ubc,18,stefan colbow,Sr,F,1,0.0,0,0,0,4,4th,F,FOR
+2024-25,ubc,25,yuan yu-hsuan,Fr,M,1,0.0,0,0,0,1,1st,M,MID
+2024-25,ufv,25,jackson cowx,,GK,16,16.0,0,0,0,0,UNK,GK,GK
+2024-25,ufv,11,kevin mailand,,M,16,15.0,6,4,10,0,UNK,M,MID
+2024-25,ufv,7,mateo brazinha,,F,15,15.0,8,9,17,0,UNK,F,FOR
+2024-25,ufv,9,dante colebourne,,M,15,9.0,1,3,4,0,UNK,M,MID
+2024-25,ufv,12,bhagvir sidhu,,D,15,13.0,2,1,3,0,UNK,D,DEF
+2024-25,ufv,22,adam szymanski,,D,15,15.0,0,3,3,0,UNK,D,DEF
+2024-25,ufv,2,michael beecroft,,D,14,7.0,1,1,2,0,UNK,D,DEF
+2024-25,ufv,21,ebi igali,,D,14,5.0,1,0,1,0,UNK,D,DEF
+2024-25,ufv,3,dulain panditha,,D,14,12.0,0,0,0,0,UNK,D,DEF
+2024-25,ufv,17,riku suga,,F,14,8.0,1,1,2,0,UNK,F,FOR
+2024-25,ufv,13,adriano consiglio,,M,13,13.0,1,0,1,0,UNK,M,MID
+2024-25,ufv,10,harjoven sidhu,,M,13,9.0,1,0,1,0,UNK,M,MID
+2024-25,ufv,8,anthony vega,,M,13,13.0,0,0,0,0,UNK,M,MID
+2024-25,ufv,4,carson muter,,D,12,12.0,0,0,0,0,UNK,D,DEF
+2024-25,ufv,5,william stuart,,M,12,1.0,0,1,1,0,UNK,M,MID
+2024-25,ufv,6,gurnaj sidhu,,D,10,5.0,2,0,2,0,UNK,D,DEF
+2024-25,ufv,18,joel bangura,,M,8,2.0,1,0,1,0,UNK,M,MID
+2024-25,ufv,14,dylan lee,,M,6,3.0,0,0,0,0,UNK,M,MID
+2024-25,ufv,19,roland mansell,,F,6,1.0,3,0,3,0,UNK,F,FOR
+2024-25,ufv,24,nathan cervo,,F,4,0.0,1,0,1,0,UNK,F,FOR
+2024-25,ufv,15,jorryn gill,,D,3,1.0,0,0,0,0,UNK,D,DEF
+2024-25,ufv,16,jeevan dhaliwal,,F,2,0.0,0,0,0,0,UNK,F,FOR
+2024-25,ufv,20,aidan fitzgerald,,D,2,0.0,0,0,0,0,UNK,D,DEF
+2024-25,ufv,23,eh hser moo,,M,2,0.0,0,0,0,0,UNK,M,MID
+2024-25,ufv,32,daniel aniogbe,,D,1,1.0,0,0,0,0,UNK,D,DEF
+2024-25,ufv,31,dominik hajdecki,,F,1,0.0,0,0,0,0,UNK,F,FOR
+2024-25,ufv,29,aidan thompson,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2024-25,calgary,19,dominic anamali,Jr,F,14,6.0,2,0,2,3,3rd,F,FOR
+2024-25,calgary,9,kimia kassanda,Fr,F,14,11.0,1,1,2,1,1st,F,FOR
+2024-25,calgary,10,gianmarco plenzik,Sr,M,14,14.0,7,5,12,4,4th,M,MID
+2024-25,calgary,1,hany shafie,Fr,GK,14,14.0,0,1,1,1,1st,GK,GK
+2024-25,calgary,14,james greco-taylor,Sr,M,13,13.0,0,5,5,4,4th,M,MID
+2024-25,calgary,22,jacob hunter,Sr,D,13,13.0,4,1,5,4,4th,D,DEF
+2024-25,calgary,12,efe udolu-joshua,Fr,F,13,11.0,2,0,2,1,1st,F,FOR
+2024-25,calgary,6,soliman aria,Sr,M,12,12.0,2,1,3,4,4th,M,MID
+2024-25,calgary,5,joey plenzik,Jr,D,12,12.0,2,0,2,3,3rd,D,DEF
+2024-25,calgary,3,milan ponjevic,Jr,D,12,12.0,1,0,1,3,3rd,D,DEF
+2024-25,calgary,23,owen antoniuk,Jr,M,11,11.0,8,5,13,3,3rd,M,MID
+2024-25,calgary,7,aidan izadi,Sr,F,11,3.0,0,2,2,4,4th,F,FOR
+2024-25,calgary,24,spencer mccallum,Fr,M,11,0.0,2,2,4,1,1st,M,MID
+2024-25,calgary,26,william omoreniye,Jr,D,11,7.0,1,0,1,3,3rd,D,DEF
+2024-25,calgary,16,edomias nesibu,So,M,10,0.0,0,0,0,2,2nd,M,MID
+2024-25,calgary,21,felipe raed di bari,Jr,D,10,6.0,0,0,0,3,3rd,D,DEF
+2024-25,calgary,2,doohyeon kim,Sr,D,8,1.0,0,0,0,4,4th,D,DEF
+2024-25,calgary,25,arash mahjor,Jr,D,5,4.0,0,0,0,3,3rd,D,DEF
+2024-25,calgary,18,josral frederick,So,F,3,0.0,1,1,2,2,2nd,F,FOR
+2024-25,calgary,8,nahum tsegai,Sr,D,3,3.0,0,0,0,4,4th,D,DEF
+2024-25,calgary,4,james welsh,So,D,3,1.0,0,0,0,2,2nd,D,DEF
+2024-25,calgary,11,isaiah zarate,Fr,M,2,0.0,0,0,0,1,1st,M,MID
+2024-25,calgary,27,oliver allen,So,GK,1,0.0,0,0,0,2,2nd,GK,GK
+2024-25,calgary,20,nicholas carr,Sr,D,1,0.0,0,0,0,4,4th,D,DEF
+2024-25,victoria,11,mattheus achadinha,,D,15,15.0,2,3,5,0,UNK,D,DEF
+2024-25,victoria,14,ole cameron,,M,15,15.0,2,1,3,0,UNK,M,MID
+2024-25,victoria,18,alex moody,,D,15,15.0,2,1,3,0,UNK,D,DEF
+2024-25,victoria,7,yassin guitouni,,M,14,8.0,0,1,1,0,UNK,M,MID
+2024-25,victoria,19,harry ritter west,,F,14,14.0,1,1,2,0,UNK,F,FOR
+2024-25,victoria,4,javier sagaste,,M,14,14.0,2,1,3,0,UNK,M,MID
+2024-25,victoria,5,archie tugwell,,D,14,14.0,1,0,1,0,UNK,D,DEF
+2024-25,victoria,2,fin tugwell,,D,14,14.0,1,1,2,0,UNK,D,DEF
+2024-25,victoria,1,callum weir,,GK,14,14.0,0,0,0,0,UNK,GK,GK
+2024-25,victoria,20,evan larson,,F,13,7.0,1,1,2,0,UNK,F,FOR
+2024-25,victoria,17,matthew pearse,,M,13,13.0,6,3,9,0,UNK,M,MID
+2024-25,victoria,16,matteo hilton,,M,11,3.0,1,0,1,0,UNK,M,MID
+2024-25,victoria,8,connor legge,,M,11,11.0,0,1,1,0,UNK,M,MID
+2024-25,victoria,3,manchand virk,,D,11,1.0,1,0,1,0,UNK,D,DEF
+2024-25,victoria,10,jack napier-ganley,,M,10,1.0,1,2,3,0,UNK,M,MID
+2024-25,victoria,15,aiden grew,,D,7,1.0,0,0,0,0,UNK,D,DEF
+2024-25,victoria,24,takin keshavarz,,M,7,0.0,1,0,1,0,UNK,M,MID
+2024-25,victoria,12,tristan cornwell,,D,6,2.0,0,0,0,0,UNK,D,DEF
+2024-25,victoria,22,jag zaharia,,D,6,0.0,1,0,1,0,UNK,D,DEF
+2024-25,victoria,9,cole michel,,F,5,2.0,1,1,2,0,UNK,F,FOR
+2024-25,victoria,29,matthew mcconnach,,GK,1,1.0,0,0,0,0,UNK,GK,GK
+2024-25,victoria,6,armaan nijjar,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2024-25,unbc,20,james jordan,So,M,16,16.0,1,0,1,2,2nd,M,MID
+2024-25,unbc,13,isaac tate,So,M,16,16.0,2,4,6,2,2nd,M,MID
+2024-25,unbc,6,luke graham,Fr,D,15,15.0,2,0,2,1,1st,D,DEF
+2024-25,unbc,8,hagon kim,So,D,15,15.0,1,4,5,2,2nd,D,DEF
+2024-25,unbc,21,koss nystedt,So,D,15,14.0,0,0,0,2,2nd,D,DEF
+2024-25,unbc,16,trevor scott,So,M,15,14.0,0,0,0,2,2nd,M,MID
+2024-25,unbc,17,connor lewis,Sr,M,14,14.0,4,0,4,4,4th,M,MID
+2024-25,unbc,27,logan pierce,So,GK,14,14.0,0,0,0,2,2nd,GK,GK
+2024-25,unbc,22,colin stauffer,So,M,14,13.0,0,0,0,2,2nd,M,MID
+2024-25,unbc,14,charlie stewart,Jr,M,14,7.0,0,0,0,3,3rd,M,MID
+2024-25,unbc,10,mehdi bounaaja,Fr,M,13,8.0,1,1,2,1,1st,M,MID
+2024-25,unbc,9,cole gunhold,Fr,S,13,3.0,0,1,1,1,1st,S,UNK
+2024-25,unbc,2,pipeijn van der ende,Fr,D,13,13.0,0,0,0,1,1st,D,DEF
+2024-25,unbc,3,adam korduner,So,D,11,6.0,1,0,1,2,2nd,D,DEF
+2024-25,unbc,15,anton zadonsky,So,M,10,1.0,1,0,1,2,2nd,M,MID
+2024-25,unbc,5,matteo cuzzetto,Fr,D,8,2.0,0,0,0,1,1st,D,DEF
+2024-25,unbc,12,jacob wedel,Fr,D,8,3.0,0,0,0,1,1st,D,DEF
+2024-25,unbc,4,matt botelho,Fr,D,5,0.0,0,0,0,1,1st,D,DEF
+2024-25,unbc,1,yanni ntapas,Jr,GK,4,2.0,0,0,0,3,3rd,GK,GK
+2024-25,unbc,19,demian dron,Sr,D,1,0.0,0,0,0,4,4th,D,DEF
+2024-25,alberta,11,habib assem,3rd,F,14,7.0,3,3,6,3,3rd,F,FOR
+2024-25,alberta,14,rodane cato,4th,M,14,14.0,3,1,4,4,4th,M,MID
+2024-25,alberta,10,rilind idrizi,5th,M,14,14.0,5,4,9,5,5th,M,MID
+2024-25,alberta,16,prince amanda,3rd,F,13,8.0,2,3,5,3,3rd,F,FOR
+2024-25,alberta,6,jake bosch,5th,M,13,13.0,0,5,5,5,5th,M,MID
+2024-25,alberta,17,frankroy cain,2nd,F,13,1.0,4,1,5,2,2nd,F,FOR
+2024-25,alberta,23,david chung,5th,M,13,13.0,2,1,3,5,5th,M,MID
+2024-25,alberta,1,liam collens,5th,GK,13,13.0,0,0,0,5,5th,GK,GK
+2024-25,alberta,4,patrick kondraciuk,2nd,D,13,12.0,1,1,2,2,2nd,D,DEF
+2024-25,alberta,3,joel martins-correia,3rd,D,13,13.0,1,0,1,3,3rd,D,DEF
+2024-25,alberta,12,caden ruby,1st,F,13,5.0,4,1,5,1,1st,F,FOR
+2024-25,alberta,9,marcus velado-tsegaye,3rd,F,13,9.0,5,2,7,3,3rd,F,FOR
+2024-25,alberta,2,dylan marple,2nd,D,12,6.0,0,0,0,2,2nd,D,DEF
+2024-25,alberta,8,thomas hope,3rd,D,11,11.0,0,1,1,3,3rd,D,DEF
+2024-25,alberta,5,jackson belbin,2nd,D,9,5.0,0,1,1,2,2nd,D,DEF
+2024-25,alberta,19,eric normandeau,1st,D,9,9.0,0,5,5,1,1st,D,DEF
+2024-25,alberta,13,jivan aulakh,2nd,M,5,0.0,0,0,0,2,2nd,M,MID
+2024-25,alberta,18,banshjot gill,1st,D,4,0.0,0,0,0,1,1st,D,DEF
+2024-25,alberta,20,kyler kaluzniak,2nd,D,3,0.0,0,0,0,2,2nd,D,DEF
+2024-25,alberta,22,tyler griffith,4th,GK,1,1.0,0,0,0,4,4th,GK,GK
+2024-25,lethbridge,22,jeremy dalla costa,,D,14,13.0,1,0,1,0,UNK,D,DEF
+2024-25,lethbridge,3,kyle boell,,D,13,12.0,1,0,1,0,UNK,D,DEF
+2024-25,lethbridge,6,thomas denness,,D,13,4.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,2,damon field,,D,13,13.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,11,ben gingras,,M,13,9.0,0,0,0,0,UNK,M,MID
+2024-25,lethbridge,8,will hughes,,D,13,13.0,0,3,3,0,UNK,D,DEF
+2024-25,lethbridge,9,simon rolfson,,F,13,8.0,3,0,3,0,UNK,F,FOR
+2024-25,lethbridge,14,cole rosenlund,,M,13,13.0,0,1,1,0,UNK,M,MID
+2024-25,lethbridge,20,kai sakaguchi,,F,13,12.0,2,0,2,0,UNK,F,FOR
+2024-25,lethbridge,18,karim bey,,M,12,12.0,1,2,3,0,UNK,M,MID
+2024-25,lethbridge,19,nicholas bilodeau,,D,12,12.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,24,brady indzeoski,,D,12,2.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,30,armaan thawer,,GK,12,12.0,0,0,0,0,UNK,GK,GK
+2024-25,lethbridge,27,alex loturi,,M,11,4.0,0,0,0,0,UNK,M,MID
+2024-25,lethbridge,25,carson moore,,F,11,5.0,0,0,0,0,UNK,F,FOR
+2024-25,lethbridge,15,noah bilodeau,,F,8,2.0,1,0,1,0,UNK,F,FOR
+2024-25,lethbridge,13,andrew primeau,,D,8,1.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,12,ziad el hasumi,,D,7,1.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,5,holden lehr,,F,7,0.0,1,0,1,0,UNK,F,FOR
+2024-25,lethbridge,28,brandon francis,,F,5,1.0,0,0,0,0,UNK,F,FOR
+2024-25,lethbridge,17,sam popowich,,F,3,2.0,0,0,0,0,UNK,F,FOR
+2024-25,lethbridge,33,tegan romaine,,GK,3,2.0,0,0,0,0,UNK,GK,GK
+2024-25,lethbridge,21,cadel goertzen,,F,1,0.0,0,0,0,0,UNK,F,FOR
+2024-25,lethbridge,23,soren hendricks,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,16,nathaniel riemer,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2024-25,lethbridge,7,adam turner,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2024-25,trinity western,5,adam hajdecki,,DEF,15,15.0,1,0,1,0,UNK,DEF,DEF
+2024-25,trinity western,20,jordan low,,MID,15,14.0,5,2,7,0,UNK,MID,DEF
+2024-25,trinity western,8,xander roxburgh,,MID,15,6.0,3,1,4,0,UNK,MID,DEF
+2024-25,trinity western,19,mario banovic,,DEF,14,14.0,0,0,0,0,UNK,DEF,DEF
+2024-25,trinity western,11,charles nana,,FOR,14,11.0,7,6,13,0,UNK,FOR,FOR
+2024-25,trinity western,10,thomas powell,,MID,14,14.0,0,4,4,0,UNK,MID,DEF
+2024-25,trinity western,9,emmanuel dan-adokiene,,FOR,13,7.0,2,0,2,0,UNK,FOR,FOR
+2024-25,trinity western,27,kieran eve,,MID,13,9.0,0,1,1,0,UNK,MID,DEF
+2024-25,trinity western,26,malcolm kengni,,MID,13,7.0,1,1,2,0,UNK,MID,DEF
+2024-25,trinity western,17,christian rossi,,FOR,13,9.0,1,0,1,0,UNK,FOR,FOR
+2024-25,trinity western,24,grant verhoeven,,MID,13,10.0,0,0,0,0,UNK,MID,DEF
+2024-25,trinity western,1,alexander cordeiro,,GK,11,11.0,0,0,0,0,UNK,GK,GK
+2024-25,trinity western,22,francis powell,,MID,11,11.0,1,2,3,0,UNK,MID,DEF
+2024-25,trinity western,6,joey seo,,MID,11,9.0,1,1,2,0,UNK,MID,DEF
+2024-25,trinity western,16,kosta adzic,,DEF,8,6.0,0,2,2,0,UNK,DEF,DEF
+2024-25,trinity western,21,luca alberti,,DEF,8,1.0,0,0,0,0,UNK,DEF,DEF
+2024-25,trinity western,4,jonny grant,,DEF,8,2.0,0,0,0,0,UNK,DEF,DEF
+2024-25,trinity western,36,david saavedra,,FOR,6,1.0,0,0,0,0,UNK,FOR,FOR
+2024-25,trinity western,29,austin petri,,GK,5,4.0,0,0,0,0,UNK,GK,GK
+2024-25,trinity western,12,zachary stead,,FOR,5,1.0,1,0,1,0,UNK,FOR,FOR
+2024-25,trinity western,14,marcel bona,,MID,3,1.0,0,0,0,0,UNK,MID,DEF
+2024-25,trinity western,3,mikey dale,,DEF,2,1.0,0,0,0,0,UNK,DEF,DEF
+2024-25,trinity western,18,jace wiebe,,FOR,2,1.0,0,0,0,0,UNK,FOR,FOR
+2024-25,trinity western,15,aiden evans,,DEF,1,0.0,0,0,0,0,UNK,DEF,DEF
+2024-25,trinity western,32,josh reinhard,,DEF,1,0.0,0,0,0,0,UNK,DEF,DEF
+2024-25,saskatchewan,10,ethan cabral,,MF,14,14.0,4,0,4,0,UNK,MF,MID
+2024-25,saskatchewan,8,matthew hnatiw,,MF,14,11.0,0,0,0,0,UNK,MF,MID
+2024-25,saskatchewan,2,robert mackay,,MF,14,14.0,1,0,1,0,UNK,MF,MID
+2024-25,saskatchewan,6,malcolm rektor,,MF,14,14.0,1,1,2,0,UNK,MF,MID
+2024-25,saskatchewan,11,ilyich gharahmadani,,W,13,5.0,0,0,0,0,UNK,W,FOR
+2024-25,saskatchewan,12,luke mackie,,MF,13,13.0,1,0,1,0,UNK,MF,MID
+2024-25,saskatchewan,23,ryan ko,,FB,12,8.0,0,0,0,0,UNK,FB,DEF
+2024-25,saskatchewan,14,rajesh rodney,,ST,12,7.0,0,0,0,0,UNK,ST,FOR
+2024-25,saskatchewan,9,robert woodroffe-brown,,ST,12,9.0,1,1,2,0,UNK,ST,FOR
+2024-25,saskatchewan,24,daler tokhirov,,MF,11,7.0,1,2,3,0,UNK,MF,MID
+2024-25,saskatchewan,25,misgana killoh,,MF,10,3.0,0,1,1,0,UNK,MF,MID
+2024-25,saskatchewan,5,holden mcleay,,DF,10,6.0,0,0,0,0,UNK,DF,DEF
+2024-25,saskatchewan,7,mason ogoke,,MF,10,10.0,0,0,0,0,UNK,MF,MID
+2024-25,saskatchewan,1,jaron slopinski,,GK,10,10.0,0,0,0,0,UNK,GK,GK
+2024-25,saskatchewan,16,alessandro calado,,MF,8,5.0,0,0,0,0,UNK,MF,MID
+2024-25,saskatchewan,18,aydin wiebe,,FB,8,8.0,0,0,0,0,UNK,FB,DEF
+2024-25,saskatchewan,17,sergio molina,,FB,7,5.0,0,0,0,0,UNK,FB,DEF
+2024-25,saskatchewan,4,makariy pryadko,,FB,5,0.0,0,0,0,0,UNK,FB,DEF
+2024-25,saskatchewan,32,george arnold,,GK,4,2.0,0,0,0,0,UNK,GK,GK
+2024-25,saskatchewan,15,ty lee,,MF,4,1.0,0,0,0,0,UNK,MF,MID
+2024-25,saskatchewan,13,gabriele altomare,,MF,2,0.0,0,0,0,0,UNK,MF,MID
+2024-25,saskatchewan,22,emmett mcgillvray,,GK,2,2.0,0,0,0,0,UNK,GK,GK
+2024-25,saskatchewan,20,kiran baker,,ST,1,0.0,0,0,0,0,UNK,ST,FOR
+2024-25,saskatchewan,3,julian calderon,,FB,1,0.0,0,0,0,0,UNK,FB,DEF
+2024-25,macewan,14,kayden dugas,,F,14,13.0,0,4,4,0,UNK,F,FOR
+2024-25,macewan,4,lucio rivera,,D,14,14.0,0,0,0,0,UNK,D,DEF
+2024-25,macewan,8,ali yildiz,,M,14,14.0,3,1,4,0,UNK,M,MID
+2024-25,macewan,17,felix guite,,M,13,4.0,1,0,1,0,UNK,M,MID
+2024-25,macewan,11,nicolas luczkiewicz,,M,12,11.0,0,0,0,0,UNK,M,MID
+2024-25,macewan,5,jakob sievert,,M,12,12.0,0,0,0,0,UNK,M,MID
+2024-25,macewan,23,samuel vieira,,F,12,10.0,0,0,0,0,UNK,F,FOR
+2024-25,macewan,7,rakan yassin,,F,12,12.0,5,3,8,0,UNK,F,FOR
+2024-25,macewan,3,jamal ajab,,M,10,9.0,0,1,1,0,UNK,M,MID
+2024-25,macewan,22,oleksandr popravka,,GK,10,10.0,0,0,0,0,UNK,GK,GK
+2024-25,macewan,15,abhiroop sandhu,,M,10,1.0,1,0,1,0,UNK,M,MID
+2024-25,macewan,34,philip wutzl,,D,10,10.0,0,0,0,0,UNK,D,DEF
+2024-25,macewan,28,chance carter,,M,8,7.0,3,2,5,0,UNK,M,MID
+2024-25,macewan,13,logan klapstein,,M,8,7.0,1,0,1,0,UNK,M,MID
+2024-25,macewan,20,stewart jamieson,,D,5,3.0,0,0,0,0,UNK,D,DEF
+2024-25,macewan,16,zewdu mekonnen,,F,5,2.0,0,0,0,0,UNK,F,FOR
+2024-25,macewan,26,alain sitchet,,F,5,2.0,0,0,0,0,UNK,F,FOR
+2024-25,macewan,27,liam van laar,,D,5,1.0,0,0,0,0,UNK,D,DEF
+2024-25,macewan,6,abass ajibade,,M,4,4.0,0,0,0,0,UNK,M,MID
+2024-25,macewan,19,t-boy fayia,,D,3,3.0,0,0,0,0,UNK,D,DEF
+2024-25,macewan,18,miles frett-baptiste,,F,3,0.0,0,0,0,0,UNK,F,FOR
+2024-25,macewan,35,kaleb lutz,,GK,3,2.0,0,0,0,0,UNK,GK,GK
+2024-25,macewan,30,david sithole,,GK,2,2.0,0,0,0,0,UNK,GK,GK
+2024-25,thompson rivers,19,marcus d'andrea,,M,16,16.0,0,0,0,0,UNK,M,MID
+2024-25,thompson rivers,10,minwoo kang,,M,16,13.0,1,0,1,0,UNK,M,MID
+2024-25,thompson rivers,11,ryan olak,,M,15,8.0,2,0,2,0,UNK,M,MID
+2024-25,thompson rivers,5,elijah dos santos,,D,14,14.0,1,1,2,0,UNK,D,DEF
+2024-25,thompson rivers,21,mel nelissen,,M,14,5.0,0,0,0,0,UNK,M,MID
+2024-25,thompson rivers,12,jonathan rinaldi,,M,14,14.0,2,1,3,0,UNK,M,MID
+2024-25,thompson rivers,8,mikkel rosenlund,,D,14,14.0,0,0,0,0,UNK,D,DEF
+2024-25,thompson rivers,18,ranjeet brar,,M,13,12.0,0,2,2,0,UNK,M,MID
+2024-25,thompson rivers,27,abdel coulibaly,,D,13,11.0,3,2,5,0,UNK,D,DEF
+2024-25,thompson rivers,6,zach hamedi,,M,13,9.0,0,0,0,0,UNK,M,MID
+2024-25,thompson rivers,23,soren kaczor,,M,11,5.0,0,1,1,0,UNK,M,MID
+2024-25,thompson rivers,25,lucas kirnon,,D,11,11.0,0,1,1,0,UNK,D,DEF
+2024-25,thompson rivers,22,tommy moon,,M,11,2.0,0,0,0,0,UNK,M,MID
+2024-25,thompson rivers,1,luca ortu,,GK,11,10.0,0,0,0,0,UNK,GK,GK
+2024-25,thompson rivers,2,domenico comita,,M,10,10.0,0,1,1,0,UNK,M,MID
+2024-25,thompson rivers,16,kaleem remekie,,F,10,3.0,0,0,0,0,UNK,F,FOR
+2024-25,thompson rivers,3,liam freathy,,D,9,4.0,0,1,1,0,UNK,D,DEF
+2024-25,thompson rivers,26,aren christianson,,D,8,4.0,0,0,0,0,UNK,D,DEF
+2024-25,thompson rivers,30,olivier jumeau,,GK,6,6.0,0,0,0,0,UNK,GK,GK
+2024-25,thompson rivers,14,alvin crofoot,,D,5,0.0,0,0,0,0,UNK,D,DEF
+2024-25,thompson rivers,9,lachlan will,,F,5,5.0,2,0,2,0,UNK,F,FOR
+2024-25,thompson rivers,15,lucas rinaldi,,M,1,0.0,0,0,0,0,UNK,M,MID
+2025-26,ubc,9,max comsia,So,F,14,11.0,5,4,9,2,2nd,F,FOR
+2025-26,ubc,7,henri godbout,So,F,14,10.0,5,3,8,2,2nd,F,FOR
+2025-26,ubc,14,oliver herbert,Jr,M,14,2.0,3,1,4,3,3rd,M,MID
+2025-26,ubc,28,markus kaiser,Sr,M,14,13.0,0,4,4,4,4th,M,MID
+2025-26,ubc,13,eric lajeunesse,Sr,D,14,14.0,2,0,2,4,4th,D,DEF
+2025-26,ubc,21,nicolas nadeau,Fr,M,14,14.0,2,1,3,1,1st,M,MID
+2025-26,ubc,24,luke norman,Jr,M,14,13.0,3,6,9,3,3rd,M,MID
+2025-26,ubc,4,marcus puhalj,Sr,D,14,14.0,0,0,0,4,4th,D,DEF
+2025-26,ubc,11,brennen fuerst,Jr,M,13,13.0,1,0,1,3,3rd,M,MID
+2025-26,ubc,27,markus rukavina,So,F,13,4.0,4,2,6,2,2nd,F,FOR
+2025-26,ubc,8,theo afework,Fr,F,12,10.0,4,3,7,1,1st,F,FOR
+2025-26,ubc,12,joven mann,So,M,12,12.0,4,0,4,2,2nd,M,MID
+2025-26,ubc,1,jack garner,Jr,GK,10,10.0,0,0,0,3,3rd,GK,GK
+2025-26,ubc,6,yuan yu-hsuan,So,M,9,8.0,0,1,1,2,2nd,M,MID
+2025-26,ubc,2,cameron hajdu,Fr,D,8,2.0,0,0,0,1,1st,D,DEF
+2025-26,ubc,3,joshua tome,Jr,D,8,0.0,0,0,0,3,3rd,D,DEF
+2025-26,ubc,17,asvin chauhan,Sr,F,7,0.0,1,1,2,4,4th,F,FOR
+2025-26,ubc,18,joshua njongwe,So,D,4,0.0,0,0,0,2,2nd,D,DEF
+2025-26,ubc,22,roko vukic,So,GK,4,4.0,0,0,0,2,2nd,GK,GK
+2025-26,ubc,16,sebastian agerskov,Fr,M,1,0.0,0,0,0,1,1st,M,MID
+2025-26,ubc,19,adriano carvalheiro-nunes,Fr,D,1,0.0,0,0,0,1,1st,D,DEF
+2025-26,ubc,20,kyle dent,Fr,F,1,0.0,0,0,0,1,1st,F,FOR
+2025-26,ufv,13,adriano consiglio,,M,13,13.0,1,0,1,0,UNK,M,MID
+2025-26,ufv,25,matheus de souza,,GK,13,13.0,0,1,1,0,UNK,GK,GK
+2025-26,ufv,14,dylan lee,,M,13,9.0,0,1,1,0,UNK,M,MID
+2025-26,ufv,4,carson muter,,D,13,13.0,0,0,0,0,UNK,D,DEF
+2025-26,ufv,17,michael beecroft,,D,12,12.0,5,3,8,0,UNK,D,DEF
+2025-26,ufv,7,mateo brazinha,,F,12,10.0,11,2,13,0,UNK,F,FOR
+2025-26,ufv,2,beckham hatch,,D,12,5.0,0,3,3,0,UNK,D,DEF
+2025-26,ufv,11,kevin mailand,,M,12,12.0,5,2,7,0,UNK,M,MID
+2025-26,ufv,12,bhagvir sidhu,,D,12,12.0,0,1,1,0,UNK,D,DEF
+2025-26,ufv,10,harjoven sidhu,,M,12,12.0,1,4,5,0,UNK,M,MID
+2025-26,ufv,21,ebi igali,,D,11,10.0,1,1,2,0,UNK,D,DEF
+2025-26,ufv,9,dante colebourne,,M,10,4.0,0,2,2,0,UNK,M,MID
+2025-26,ufv,5,iza martinez,,F,10,3.0,0,0,0,0,UNK,F,FOR
+2025-26,ufv,22,adam szymanski,,D,10,10.0,1,3,4,0,UNK,D,DEF
+2025-26,ufv,15,mondo abay,,D,7,3.0,0,1,1,0,UNK,D,DEF
+2025-26,ufv,20,aidan fitzgerald,,D,7,1.0,1,1,2,0,UNK,D,DEF
+2025-26,ufv,26,sloan hatch,,D,7,0.0,0,0,0,0,UNK,D,DEF
+2025-26,ufv,3,brody perkin,,D,7,1.0,1,0,1,0,UNK,D,DEF
+2025-26,ufv,24,nathan cervo,,F,4,0.0,1,0,1,0,UNK,F,FOR
+2025-26,ufv,8,grischa heider,,M,4,0.0,0,1,1,0,UNK,M,MID
+2025-26,ufv,16,joaquim dharamsi,,F,3,0.0,0,0,0,0,UNK,F,FOR
+2025-26,calgary,20,owen antoniuk,Jr,F,13,13.0,9,4,13,3,3rd,F,FOR
+2025-26,calgary,10,gianmarco plenzik,Sr,M,13,13.0,1,1,2,4,4th,M,MID
+2025-26,calgary,9,kimia kassanda,So,F,12,12.0,3,4,7,2,2nd,F,FOR
+2025-26,calgary,24,spencer mccallum,So,F,12,5.0,0,1,1,2,2nd,F,FOR
+2025-26,calgary,18,william omoreniye,Jr,D,12,12.0,0,4,4,3,3rd,D,DEF
+2025-26,calgary,3,milan ponjevic,Jr,D,12,12.0,1,0,1,3,3rd,D,DEF
+2025-26,calgary,1,hany shafie,So,GK,12,12.0,0,0,0,2,2nd,GK,GK
+2025-26,calgary,12,victor gouttin,Jr,D,11,11.0,1,0,1,3,3rd,D,DEF
+2025-26,calgary,16,edomias nesibu,Jr,M,11,1.0,0,0,0,3,3rd,M,MID
+2025-26,calgary,6,soliman aria,Sr,M,10,10.0,4,3,7,4,4th,M,MID
+2025-26,calgary,7,aidan izadi,Sr,F,9,1.0,0,0,0,4,4th,F,FOR
+2025-26,calgary,8,nahum tsegai,Sr,D,9,7.0,0,0,0,4,4th,D,DEF
+2025-26,calgary,11,efe udolu-joshua,So,F,9,9.0,5,0,5,2,2nd,F,FOR
+2025-26,calgary,17,josral frederick,Jr,F,8,2.0,1,0,1,3,3rd,F,FOR
+2025-26,calgary,25,arash mahjor,Jr,D,8,0.0,0,1,1,3,3rd,D,DEF
+2025-26,calgary,5,joey plenzik,Jr,D,8,8.0,1,1,2,3,3rd,D,DEF
+2025-26,calgary,23,kundai dziwa,Jr,F,7,0.0,0,1,1,3,3rd,F,FOR
+2025-26,calgary,21,felipe raed di bari,Jr,D,7,0.0,0,0,0,3,3rd,D,DEF
+2025-26,calgary,26,isaiah zarate,So,M,7,2.0,0,0,0,2,2nd,M,MID
+2025-26,calgary,14,james greco-taylor,Sr,M,6,6.0,0,2,2,4,4th,M,MID
+2025-26,calgary,19,dominic anamali,Jr,F,4,2.0,0,0,0,3,3rd,F,FOR
+2025-26,calgary,22,jacob hunter,Sr,D,3,3.0,0,0,0,4,4th,D,DEF
+2025-26,calgary,2,doohyeon kim,Sr,D,3,1.0,0,0,0,4,4th,D,DEF
+2025-26,calgary,4,james welsh,Jr,D,2,0.0,0,0,0,3,3rd,D,DEF
+2025-26,calgary,27,oliver allen,Jr,GK,1,1.0,0,0,0,3,3rd,GK,GK
+2025-26,calgary,13,greg smith,So,M,1,0.0,0,0,0,2,2nd,M,MID
+2025-26,victoria,7,yassin guitouni,,F,15,15.0,5,0,5,0,UNK,F,FOR
+2025-26,victoria,4,alexander moody,,D,15,15.0,1,3,4,0,UNK,D,DEF
+2025-26,victoria,17,matthew pearse,,F,15,15.0,8,3,11,0,UNK,F,FOR
+2025-26,victoria,2,fin tugwell,,D,15,15.0,3,0,3,0,UNK,D,DEF
+2025-26,victoria,11,mattheus achadinha,,M,14,4.0,0,1,1,0,UNK,M,MID
+2025-26,victoria,14,ole cameron,,M,14,12.0,1,3,4,0,UNK,M,MID
+2025-26,victoria,24,takin keshavarz,,M,14,10.0,3,2,5,0,UNK,M,MID
+2025-26,victoria,20,evan larson,,M,14,0.0,0,2,2,0,UNK,M,MID
+2025-26,victoria,8,connor legge,,M,14,13.0,1,1,2,0,UNK,M,MID
+2025-26,victoria,1,callum weir,,GK,14,14.0,0,1,1,0,UNK,GK,GK
+2025-26,victoria,15,aiden grew,,D,13,13.0,0,1,1,0,UNK,D,DEF
+2025-26,victoria,16,matteo hilton,,M,13,8.0,0,1,1,0,UNK,M,MID
+2025-26,victoria,5,archie tugwell,,D,12,12.0,1,1,2,0,UNK,D,DEF
+2025-26,victoria,10,jack napier-ganley,,M,10,2.0,0,0,0,0,UNK,M,MID
+2025-26,victoria,22,jag zaharia,,D,10,5.0,0,1,1,0,UNK,D,DEF
+2025-26,victoria,13,wesley jones,,F,8,0.0,1,0,1,0,UNK,F,FOR
+2025-26,victoria,3,manchand virk,,D,8,5.0,0,1,1,0,UNK,D,DEF
+2025-26,victoria,12,tristan cornwell,,D,6,2.0,0,0,0,0,UNK,D,DEF
+2025-26,victoria,9,cole michel,,F,4,0.0,0,0,0,0,UNK,F,FOR
+2025-26,victoria,6,gregor smith,,M,4,2.0,0,0,0,0,UNK,M,MID
+2025-26,victoria,18,elliot lupton,,M,3,0.0,1,0,1,0,UNK,M,MID
+2025-26,victoria,28,sam calkins,,M,2,0.0,1,0,1,0,UNK,M,MID
+2025-26,victoria,23,owen lemmer,,D,2,2.0,0,0,0,0,UNK,D,DEF
+2025-26,victoria,29,matthew mcconnach,,GK,1,1.0,0,0,0,0,UNK,GK,GK
+2025-26,victoria,27,jacob thomas,,D,1,0.0,0,0,0,0,UNK,D,DEF
+2025-26,unbc,20,james jordan,Jr,M,13,12.0,1,1,2,3,3rd,M,MID
+2025-26,unbc,22,josh jordan,Fr,S,13,11.0,3,0,3,1,1st,S,UNK
+2025-26,unbc,8,hagon kim,Jr,D,13,13.0,2,2,4,3,3rd,D,DEF
+2025-26,unbc,17,mark talisuna,Sr,M,13,13.0,2,0,2,4,4th,M,MID
+2025-26,unbc,29,jamie wildash-chan,Fr,D,13,13.0,5,1,6,1,1st,D,DEF
+2025-26,unbc,4,pipeijn van der ende,Sr,D,13,12.0,1,1,2,4,4th,D,DEF
+2025-26,unbc,10,mehdi bounaaja,So,M,12,2.0,1,2,3,2,2nd,M,MID
+2025-26,unbc,3,adam korduner,Sr,D,12,7.0,0,0,0,4,4th,D,DEF
+2025-26,unbc,19,wyatt lyon,So,M,12,12.0,0,6,6,2,2nd,M,MID
+2025-26,unbc,21,koss nystedt,Jr,D,12,12.0,1,0,1,3,3rd,D,DEF
+2025-26,unbc,13,isaac tate,Jr,M,12,12.0,3,2,5,3,3rd,M,MID
+2025-26,unbc,6,luke graham,So,D,11,4.0,0,0,0,2,2nd,D,DEF
+2025-26,unbc,14,charlie stewart,Sr,M,11,1.0,1,0,1,4,4th,M,MID
+2025-26,unbc,26,charlie beauvais,Fr,D,9,5.0,0,0,0,1,1st,D,DEF
+2025-26,unbc,27,logan pierce,So,GK,9,9.0,0,0,0,2,2nd,GK,GK
+2025-26,unbc,16,trevor scott,Sr,M,9,0.0,1,0,1,4,4th,M,MID
+2025-26,unbc,9,cole gunhold,So,S,8,0.0,0,0,0,2,2nd,S,UNK
+2025-26,unbc,25,yanni ntapas,Jr,GK,5,4.0,0,0,0,3,3rd,GK,GK
+2025-26,unbc,12,jacob wedel,So,D,1,0.0,0,0,0,2,2nd,D,DEF
+2025-26,unbc,11,kaiden young,Fr,M,1,0.0,0,0,0,1,1st,M,MID
+2025-26,mount royal,7,joshua flaksman,,Fwd,13,12.0,3,3,6,0,UNK,FWD,DEF
+2025-26,mount royal,6,alex kemsley,,Def,13,13.0,0,0,0,0,UNK,DEF,DEF
+2025-26,mount royal,21,kwasi oteng-frimpong,,Fwd,13,8.0,3,1,4,0,UNK,FWD,DEF
+2025-26,mount royal,20,chanan chanda,,Fwd,12,12.0,7,3,10,0,UNK,FWD,DEF
+2025-26,mount royal,13,joseph green,,Def,12,12.0,0,0,0,0,UNK,DEF,DEF
+2025-26,mount royal,26,ruben koudelka,,Def,12,12.0,0,0,0,0,UNK,DEF,DEF
+2025-26,mount royal,9,luka patik,,Mid,12,7.0,1,1,2,0,UNK,MID,DEF
+2025-26,mount royal,10,jonathan walter,,Mid,12,12.0,2,0,2,0,UNK,MID,DEF
+2025-26,mount royal,4,maximo niro,,Mid,11,3.0,0,0,0,0,UNK,MID,DEF
+2025-26,mount royal,8,skyler rogers,,Mid,11,11.0,1,0,1,0,UNK,MID,DEF
+2025-26,mount royal,2,hyunsoo ryu,,Def,11,11.0,1,0,1,0,UNK,DEF,DEF
+2025-26,mount royal,12,sjard strauss,,G,11,11.0,0,0,0,0,UNK,G,UNK
+2025-26,mount royal,25,tim beckedahl,,Mid,10,4.0,1,1,2,0,UNK,MID,DEF
+2025-26,mount royal,17,bwidju mutongolo,,Fwd,10,1.0,0,0,0,0,UNK,FWD,DEF
+2025-26,mount royal,18,felix liebich,,Mid,9,2.0,0,0,0,0,UNK,MID,DEF
+2025-26,mount royal,15,alexander cameron,,Def,7,2.0,0,0,0,0,UNK,DEF,DEF
+2025-26,mount royal,11,finn marshall,,Fwd,6,6.0,1,5,6,0,UNK,FWD,DEF
+2025-26,mount royal,19,clement guay,,Fwd,5,0.0,0,0,0,0,UNK,FWD,DEF
+2025-26,mount royal,3,timon haetscher,,Fwd,5,1.0,0,0,0,0,UNK,FWD,DEF
+2025-26,mount royal,27,valentin kirchner,,Def,4,1.0,0,0,0,0,UNK,DEF,DEF
+2025-26,mount royal,5,thomas lowndes,,Def,3,0.0,0,0,0,0,UNK,DEF,DEF
+2025-26,mount royal,1,bryce benton,,G,2,2.0,0,0,0,0,UNK,G,UNK
+2025-26,mount royal,22,dorian reyes,,G,1,0.0,0,0,0,0,UNK,G,UNK
+2025-26,alberta,11,prince amanda,4th,F,12,12.0,2,0,2,4,4th,F,FOR
+2025-26,alberta,6,jackson belbin,3rd,D,12,12.0,1,1,2,3,3rd,D,DEF
+2025-26,alberta,14,rodane cato,5th,M,12,12.0,1,1,2,5,5th,M,MID
+2025-26,alberta,8,thomas hope,4th,D,12,12.0,2,0,2,4,4th,D,DEF
+2025-26,alberta,13,nicholas lechelt,3rd,M,12,5.0,0,2,2,3,3rd,M,MID
+2025-26,alberta,26,harkirat malhi,4th,D,12,11.0,0,2,2,4,4th,D,DEF
+2025-26,alberta,2,dylan marple,3rd,D,12,10.0,0,0,0,3,3rd,D,DEF
+2025-26,alberta,21,trystan read,1st,GK,12,12.0,0,0,0,1,1st,GK,GK
+2025-26,alberta,5,patrick kondraciuk,3rd,D,11,11.0,1,1,2,3,3rd,D,DEF
+2025-26,alberta,9,caden ruby,2nd,F,11,10.0,1,2,3,2,2nd,F,FOR
+2025-26,alberta,10,habib assem,4th,F,10,10.0,3,1,4,4,4th,F,FOR
+2025-26,alberta,17,frankroy cain,3rd,F,10,9.0,3,2,5,3,3rd,F,FOR
+2025-26,alberta,15,justin george,2nd,M,9,4.0,1,1,2,2,2nd,M,MID
+2025-26,alberta,16,anson minty,1st,F,9,1.0,1,0,1,1,1st,F,FOR
+2025-26,alberta,24,jack ferraro,1st,M,8,1.0,1,0,1,1,1st,M,MID
+2025-26,alberta,4,jivan aulakh,3rd,M,5,0.0,0,0,0,3,3rd,M,MID
+2025-26,alberta,12,tyson blight,1st,D,4,0.0,0,0,0,1,1st,D,DEF
+2025-26,alberta,19,declan lindeman,1st,D,3,0.0,0,0,0,1,1st,D,DEF
+2025-26,alberta,20,ruben miranda,1st,M,1,0.0,0,0,0,1,1st,M,MID
+2025-26,lethbridge,19,nicholas bilodeau,,Def,12,11.0,0,1,1,0,UNK,DEF,DEF
+2025-26,lethbridge,14,xander mcintyre,,Mid,12,7.0,0,2,2,0,UNK,MID,DEF
+2025-26,lethbridge,9,simon rolfson,,Fwd,12,11.0,1,3,4,0,UNK,FWD,DEF
+2025-26,lethbridge,1,tegan romaine,,G,12,12.0,0,0,0,0,UNK,G,UNK
+2025-26,lethbridge,20,kai sakaguchi,,Fwd,12,12.0,6,1,7,0,UNK,FWD,DEF
+2025-26,lethbridge,3,kyle boell,,Def,11,11.0,0,0,0,0,UNK,DEF,DEF
+2025-26,lethbridge,18,jose castaneda,,Def,11,11.0,0,0,0,0,UNK,DEF,DEF
+2025-26,lethbridge,11,ben gingras,,Mid,11,10.0,2,1,3,0,UNK,MID,DEF
+2025-26,lethbridge,8,will hughes,,Def,11,10.0,2,0,2,0,UNK,DEF,DEF
+2025-26,lethbridge,5,micaiah leach,,Def,11,11.0,0,1,1,0,UNK,DEF,DEF
+2025-26,lethbridge,13,bronson schlichter,,Fwd,10,10.0,0,0,0,0,UNK,FWD,DEF
+2025-26,lethbridge,10,karim bey,,Mid,9,9.0,2,0,2,0,UNK,MID,DEF
+2025-26,lethbridge,16,micah mccusker,,Def,9,2.0,0,0,0,0,UNK,DEF,DEF
+2025-26,lethbridge,7,samuel okawa,,Fwd,9,1.0,2,0,2,0,UNK,FWD,DEF
+2025-26,lethbridge,15,demi ajayi,,Def,7,0.0,0,0,0,0,UNK,DEF,DEF
+2025-26,lethbridge,17,joel jaravata,,Mid,7,1.0,0,0,0,0,UNK,MID,DEF
+2025-26,lethbridge,27,leo kadezabek,,Fwd,6,0.0,1,0,1,0,UNK,FWD,DEF
+2025-26,lethbridge,25,carson moore,,Mid,6,0.0,0,0,0,0,UNK,MID,DEF
+2025-26,lethbridge,12,ziad el hasumi,,Def,4,1.0,1,0,1,0,UNK,DEF,DEF
+2025-26,lethbridge,24,marcus main,,Def,3,1.0,0,0,0,0,UNK,DEF,DEF
+2025-26,lethbridge,23,tyrell cook,,Fwd,2,0.0,0,0,0,0,UNK,FWD,DEF
+2025-26,lethbridge,6,alex loturi,,Mid,1,0.0,0,0,0,0,UNK,MID,DEF
+2025-26,lethbridge,33,owen shum,,G,1,0.0,0,0,0,0,UNK,G,UNK
+2025-26,trinity western,14,marcel bona,,MID,13,8.0,0,1,1,0,UNK,MID,DEF
+2025-26,trinity western,9,emmanuel dan-adokiene,,FOR,13,12.0,6,0,6,0,UNK,FOR,FOR
+2025-26,trinity western,5,adam hajdecki,,DEF,13,13.0,0,2,2,0,UNK,DEF,DEF
+2025-26,trinity western,22,francis powell,,MID,13,13.0,3,1,4,0,UNK,MID,DEF
+2025-26,trinity western,24,grant verhoeven,,MID,13,12.0,0,0,0,0,UNK,MID,DEF
+2025-26,trinity western,11,charles nana,,FOR,12,11.0,3,3,6,0,UNK,FOR,FOR
+2025-26,trinity western,27,kieran eve,,MID,11,11.0,0,1,1,0,UNK,MID,DEF
+2025-26,trinity western,8,jj janzen,,MID,11,7.0,1,0,1,0,UNK,MID,DEF
+2025-26,trinity western,31,garreth rayner,,MID,11,3.0,0,0,0,0,UNK,MID,DEF
+2025-26,trinity western,2,kosta adzic,,DEF,10,2.0,0,0,0,0,UNK,DEF,DEF
+2025-26,trinity western,7,gabriel moore,,DEF,10,10.0,0,1,1,0,UNK,DEF,DEF
+2025-26,trinity western,3,aiden evans,,DEF,9,6.0,0,2,2,0,UNK,DEF,DEF
+2025-26,trinity western,18,jace wiebe,,FOR,8,8.0,2,0,2,0,UNK,FOR,FOR
+2025-26,trinity western,23,marc huizenga,,FOR,7,0.0,0,1,1,0,UNK,FOR,FOR
+2025-26,trinity western,29,peter rogenthien,,GK,7,7.0,0,0,0,0,UNK,GK,GK
+2025-26,trinity western,36,david saavedra,,FOR,7,3.0,0,0,0,0,UNK,FOR,FOR
+2025-26,trinity western,19,jonny grant,,DEF,6,5.0,0,0,0,0,UNK,DEF,DEF
+2025-26,trinity western,30,yeshua silwamba,,GK,6,6.0,0,0,0,0,UNK,GK,GK
+2025-26,trinity western,4,zachary stead,,FOR,5,0.0,0,0,0,0,UNK,FOR,FOR
+2025-26,trinity western,10,jordan low,,MID,4,4.0,1,1,2,0,UNK,MID,DEF
+2025-26,trinity western,16,jackson van den brink,,DEF,4,2.0,0,0,0,0,UNK,DEF,DEF
+2025-26,trinity western,21,gurshan cheema,,MID,2,0.0,0,0,0,0,UNK,MID,DEF
+2025-26,trinity western,15,karan sidhu,,MID,2,0.0,0,0,0,0,UNK,MID,DEF
+2025-26,saskatchewan,13,tao hein,,F,12,12.0,4,0,4,0,UNK,F,FOR
+2025-26,saskatchewan,9,misgana killoh,,F,12,12.0,0,1,1,0,UNK,F,FOR
+2025-26,saskatchewan,8,malcolm rektor,,CMF,12,12.0,1,0,1,0,UNK,CMF,MID
+2025-26,saskatchewan,10,ethan cabral,,MF,11,11.0,3,0,3,0,UNK,MF,MID
+2025-26,saskatchewan,16,alessandro calado,,MF,11,11.0,0,1,1,0,UNK,MF,MID
+2025-26,saskatchewan,6,jackson kovitch,,MF,11,10.0,0,0,0,0,UNK,MF,MID
+2025-26,saskatchewan,5,ty lee,,MF,11,4.0,1,1,2,0,UNK,MF,MID
+2025-26,saskatchewan,7,dante molina,,CM,11,11.0,1,3,4,0,UNK,CM,MID
+2025-26,saskatchewan,17,sergio molina,,CDM/CB,11,11.0,0,0,0,0,UNK,CDM,DEF
+2025-26,saskatchewan,1,jaron slopinski,,GK,10,10.0,0,0,0,0,UNK,GK,GK
+2025-26,saskatchewan,4,makariy pryadko,,LB,9,8.0,1,0,1,0,UNK,LB,DEF
+2025-26,saskatchewan,20,kiran baker,,ST,7,0.0,1,0,1,0,UNK,ST,FOR
+2025-26,saskatchewan,3,rowen gresty,,CB,7,7.0,1,0,1,0,UNK,CB,DEF
+2025-26,saskatchewan,12,luke mackie,,CB,6,6.0,0,0,0,0,UNK,CB,DEF
+2025-26,saskatchewan,14,emett rocke,,F,5,1.0,0,0,0,0,UNK,F,FOR
+2025-26,saskatchewan,18,aydin wiebe,,FB,5,0.0,0,0,0,0,UNK,FB,DEF
+2025-26,saskatchewan,2,ryan ko,,FB,4,2.0,0,0,0,0,UNK,FB,DEF
+2025-26,saskatchewan,22,kieran behan,,GK,3,2.0,0,0,0,0,UNK,GK,GK
+2025-26,saskatchewan,24,kobe chilagan,,CDM,3,1.0,0,0,0,0,UNK,CDM,DEF
+2025-26,saskatchewan,19,besufekad tsedeke,,F,3,0.0,0,0,0,0,UNK,F,FOR
+2025-26,saskatchewan,15,mateo figueiredo,,CDM,1,0.0,0,0,0,0,UNK,CDM,DEF
+2025-26,saskatchewan,25,olt gashi,,LB,1,0.0,0,0,0,0,UNK,LB,DEF
+2025-26,saskatchewan,11,ilyich gharahmadani,,F,1,1.0,0,0,0,0,UNK,F,FOR
+2025-26,saskatchewan,21,jhoan sanchez,,MF,1,0.0,0,0,0,0,UNK,MF,MID
+2025-26,macewan,6,azar el khallaa,,M,12,12.0,0,0,0,0,UNK,M,MID
+2025-26,macewan,7,felix guite,,M,12,7.0,3,0,3,0,UNK,M,MID
+2025-26,macewan,19,t-boy fayia,,D,11,11.0,1,0,1,0,UNK,D,DEF
+2025-26,macewan,11,macky mahfouz,,F,11,11.0,1,0,1,0,UNK,F,FOR
+2025-26,macewan,22,oleksandr popravka,,GK,11,11.0,0,1,1,0,UNK,GK,GK
+2025-26,macewan,4,lucio rivera,,D,11,11.0,0,0,0,0,UNK,D,DEF
+2025-26,macewan,27,liam van laar,,D,11,10.0,0,0,0,0,UNK,D,DEF
+2025-26,macewan,34,philip wutzl,,D,11,6.0,0,0,0,0,UNK,D,DEF
+2025-26,macewan,8,ali yildiz,,M,11,11.0,2,2,4,0,UNK,M,MID
+2025-26,macewan,23,nicolas luczkiewicz,,M,10,7.0,1,2,3,0,UNK,M,MID
+2025-26,macewan,15,abhiroop sandhu,,M,10,10.0,1,0,1,0,UNK,M,MID
+2025-26,macewan,13,jason vuzi,,D,9,6.0,0,0,0,0,UNK,D,DEF
+2025-26,macewan,33,alain sitchet,,F,8,4.0,1,1,2,0,UNK,F,FOR
+2025-26,macewan,5,jakob sievert,,M,7,7.0,1,0,1,0,UNK,M,MID
+2025-26,macewan,24,luther feulefack,,M,6,2.0,0,0,0,0,UNK,M,MID
+2025-26,macewan,17,daniel mann,,F,5,1.0,0,0,0,0,UNK,F,FOR
+2025-26,macewan,18,miles frett-baptiste,,F,4,0.0,0,0,0,0,UNK,F,FOR
+2025-26,macewan,10,reno nero,,F,4,2.0,0,0,0,0,UNK,F,FOR
+2025-26,macewan,20,adam dasouki,,D,3,0.0,0,0,0,0,UNK,D,DEF
+2025-26,macewan,2,chance carter,,M,2,2.0,0,0,0,0,UNK,M,MID
+2025-26,macewan,35,kaleb lutz,,GK,1,1.0,0,0,0,0,UNK,GK,GK
+2025-26,ubco,17,gavin la montagne,,F,14,8.0,1,1,2,0,UNK,F,FOR
+2025-26,ubco,1,ronan woodroffe,,GK,14,12.0,0,0,0,0,UNK,GK,GK
+2025-26,ubco,2,aidan young,,D,14,12.0,0,1,1,0,UNK,D,DEF
+2025-26,ubco,9,oliver deveau,,F,13,13.0,1,1,2,0,UNK,F,FOR
+2025-26,ubco,13,alex sol,,MF,13,13.0,0,0,0,0,UNK,MF,MID
+2025-26,ubco,10,malachi emerson,,MF,12,12.0,1,0,1,0,UNK,MF,MID
+2025-26,ubco,18,charlie prefontaine,,D,12,12.0,1,1,2,0,UNK,D,DEF
+2025-26,ubco,14,allan yin,,D,12,8.0,0,1,1,0,UNK,D,DEF
+2025-26,ubco,7,dario fedele,,F,11,10.0,1,0,1,0,UNK,F,FOR
+2025-26,ubco,23,andrew matsugu,,F,11,10.0,2,1,3,0,UNK,F,FOR
+2025-26,ubco,6,varun kothary,,MF,10,10.0,0,0,0,0,UNK,MF,MID
+2025-26,ubco,12,jacobo saenz ramos,,MF,10,6.0,0,0,0,0,UNK,MF,MID
+2025-26,ubco,11,jaise shaw,,F,10,9.0,3,0,3,0,UNK,F,FOR
+2025-26,ubco,3,matteo clarke,,D,8,6.0,0,1,1,0,UNK,D,DEF
+2025-26,ubco,26,theodore zurowski,,MF,8,1.0,0,0,0,0,UNK,MF,MID
+2025-26,ubco,15,jack dilworth,,D,7,2.0,0,0,0,0,UNK,D,DEF
+2025-26,ubco,21,murray ogilvie,,MF,7,0.0,0,0,0,0,UNK,MF,MID
+2025-26,ubco,25,david weinberg,,F,7,2.0,0,0,0,0,UNK,F,FOR
+2025-26,ubco,16,eli allen,,D,5,0.0,0,0,0,0,UNK,D,DEF
+2025-26,ubco,22,carter brown,,D,5,0.0,0,0,0,0,UNK,D,DEF
+2025-26,ubco,8,sam cote,,D,5,5.0,0,0,0,0,UNK,D,DEF
+2025-26,ubco,19,namvinh nguyen,,MF,5,1.0,0,0,0,0,UNK,MF,MID
+2025-26,ubco,5,matthew alexander,,D,3,0.0,0,0,0,0,UNK,D,DEF
+2025-26,ubco,35,tyson gugushe,,GK,2,2.0,0,0,0,0,UNK,GK,GK
+2025-26,thompson rivers,27,abdel coulibaly,,D,14,14.0,3,2,5,0,UNK,D,DEF
+2025-26,thompson rivers,4,lewis crompton,,M,14,14.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,11,kaleb voth,,M,14,11.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,26,lachlan will,,F,14,14.0,2,1,3,0,UNK,F,FOR
+2025-26,thompson rivers,19,marcus d'andrea,,M,13,13.0,1,0,1,0,UNK,M,MID
+2025-26,thompson rivers,10,minwoo kang,,M,13,12.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,7,ben finley,,F,12,12.0,3,1,4,0,UNK,F,FOR
+2025-26,thompson rivers,24,liam freathy,,D,12,5.0,0,0,0,0,UNK,D,DEF
+2025-26,thompson rivers,9,ryan prasad,,F,12,0.0,0,1,1,0,UNK,F,FOR
+2025-26,thompson rivers,3,stephano rettis-martinez,,D,12,9.0,0,0,0,0,UNK,D,DEF
+2025-26,thompson rivers,5,sam barazandeh,,D,11,5.0,0,1,1,0,UNK,D,DEF
+2025-26,thompson rivers,2,domenico comita,,D,11,11.0,0,0,0,0,UNK,D,DEF
+2025-26,thompson rivers,25,matheus lucas,,F,10,10.0,1,1,2,0,UNK,F,FOR
+2025-26,thompson rivers,6,lucas rinaldi,,M,10,0.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,30,toran rutherford,,GK,8,7.0,0,0,0,0,UNK,GK,GK
+2025-26,thompson rivers,28,aren christianson,,D,7,6.0,0,0,0,0,UNK,D,DEF
+2025-26,thompson rivers,1,luca ortu,,GK,7,7.0,0,0,0,0,UNK,GK,GK
+2025-26,thompson rivers,20,tommy moon,,M,6,0.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,13,griffin ansley,,M,3,0.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,8,amir ghasemi,,M,3,3.0,0,1,1,0,UNK,M,MID
+2025-26,thompson rivers,23,sina barazandeh,,M,2,0.0,0,0,0,0,UNK,M,MID
+2025-26,thompson rivers,21,lucas kirnon,,D,1,1.0,0,0,0,0,UNK,D,DEF

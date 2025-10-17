@@ -1,0 +1,257 @@
+season,team,number,player,year,position,gp,gs,goals,assists,points
+2024-25,UBC,11,Brennen Fuerst,So,M,15,13,0,3,3
+2024-25,UBC,35,Henri Godbout,Fr,F,15,14,7,5,12
+2024-25,UBC,8,Chris Lee,Jr,D,15,15,4,3,7
+2024-25,UBC,12,Joven Mann,Fr,M,15,11,2,1,3
+2024-25,UBC,1,Bennett McKay,Sr,GK,15,15,0,0,0
+2024-25,UBC,13,Eric Lajeunesse,Jr,D,14,14,0,0,0
+2024-25,UBC,19,Jost Hausendorf,Sr,F,13,4,2,1,3
+2024-25,UBC,14,Oliver Herbert,So,M,13,7,2,2,4
+2024-25,UBC,6,Noah Hrdlicka,Sr,D,13,12,0,1,1
+2024-25,UBC,28,Markus Kaiser,Sr,M,13,10,0,1,1
+2024-25,UBC,24,Luke Norman,So,M,13,9,6,2,8
+2024-25,UBC,7,Thomas Pena,So,F,13,5,1,0,1
+2024-25,UBC,10,Connor Mrazek,Sr,M,11,4,1,1,2
+2024-25,UBC,4,Marcus Puhalj,Sr,D,11,11,0,1,1
+2024-25,UBC,26,Asvin Chauhan,Jr,F,10,6,0,1,1
+2024-25,UBC,9,Max Comsia,Fr,F,10,7,3,0,3
+2024-25,UBC,2,Lucas Dasovic,Fr,D,7,7,0,0,0
+2024-25,UBC,3,Joshua TomÃ©,So,D,6,1,0,0,0
+2024-25,UBC,23,Patrick Braun,Fr,M,2,-,1,0,1
+2024-25,UBC,16,Eric Kim,So,D,2,-,0,1,1
+2024-25,UBC,5,Jordano Pinto,Sr,M,2,-,0,0,0
+2024-25,UBC,18,Stefan Colbow,Sr,F,1,-,0,0,0
+2024-25,UBC,25,Yuan Yu-Hsuan,Fr,M,1,-,0,0,0
+2024-25,UFV,25,Jackson Cowx,,GK,16,16,0,0,0
+2024-25,UFV,11,Kevin Mailand,,M,16,15,6,4,10
+2024-25,UFV,7,Mateo Brazinha,,F,15,15,8,9,17
+2024-25,UFV,9,Dante Colebourne,,M,15,9,1,3,4
+2024-25,UFV,12,Bhagvir Sidhu,,D,15,13,2,1,3
+2024-25,UFV,22,Adam Szymanski,,D,15,15,0,3,3
+2024-25,UFV,2,Michael Beecroft,,D,14,7,1,1,2
+2024-25,UFV,21,Ebi Igali,,D,14,5,1,0,1
+2024-25,UFV,3,Dulain Panditha,,D,14,12,0,0,0
+2024-25,UFV,17,Riku Suga,,F,14,8,1,1,2
+2024-25,UFV,13,Adriano Consiglio,,M,13,13,1,0,1
+2024-25,UFV,10,Harjoven Sidhu,,M,13,9,1,0,1
+2024-25,UFV,8,Anthony Vega,,M,13,13,0,0,0
+2024-25,UFV,4,Carson Muter,,D,12,12,0,0,0
+2024-25,UFV,5,William Stuart,,M,12,1,0,1,1
+2024-25,UFV,6,Gurnaj Sidhu,,D,10,5,2,0,2
+2024-25,UFV,18,Joel Bangura,,M,8,2,1,0,1
+2024-25,UFV,14,Dylan Lee,,M,6,3,0,0,0
+2024-25,UFV,19,Roland Mansell,,F,6,1,3,0,3
+2024-25,UFV,24,Nathan Cervo,,F,4,-,1,0,1
+2024-25,UFV,15,Jorryn Gill,,D,3,1,0,0,0
+2024-25,UFV,16,Jeevan Dhaliwal,,F,2,-,0,0,0
+2024-25,UFV,20,Aidan Fitzgerald,,D,2,-,0,0,0
+2024-25,UFV,23,Eh Hser Moo,,M,2,-,0,0,0
+2024-25,UFV,32,Daniel Aniogbe,,D,1,1,0,0,0
+2024-25,UFV,31,Dominik Hajdecki,,F,1,-,0,0,0
+2024-25,UFV,29,Aidan Thompson,,D,1,-,0,0,0
+2024-25,Calgary,19,Dominic Anamali,Jr,F,14,6,2,0,2
+2024-25,Calgary,9,Kimia Kassanda,Fr,F,14,11,1,1,2
+2024-25,Calgary,10,Gianmarco Plenzik,Sr,M,14,14,7,5,12
+2024-25,Calgary,1,Hany Shafie,Fr,GK,14,14,0,1,1
+2024-25,Calgary,14,James Greco-Taylor,Sr,M,13,13,0,5,5
+2024-25,Calgary,22,Jacob Hunter,Sr,D,13,13,4,1,5
+2024-25,Calgary,12,Efe Udolu-Joshua,Fr,F,13,11,2,0,2
+2024-25,Calgary,6,Soliman Aria,Sr,M,12,12,2,1,3
+2024-25,Calgary,5,Joey Plenzik,Jr,D,12,12,2,0,2
+2024-25,Calgary,3,Milan Ponjevic,Jr,D,12,12,1,0,1
+2024-25,Calgary,23,Owen Antoniuk,Jr,M,11,11,8,5,13
+2024-25,Calgary,7,Aidan Izadi,Sr,F,11,3,0,2,2
+2024-25,Calgary,24,Spencer McCallum,Fr,M,11,-,2,2,4
+2024-25,Calgary,26,William Omoreniye,Jr,D,11,7,1,0,1
+2024-25,Calgary,16,Edomias Nesibu,So,M,10,-,0,0,0
+2024-25,Calgary,21,Felipe Raed Di Bari,Jr,D,10,6,0,0,0
+2024-25,Calgary,2,Doohyeon Kim,Sr,D,8,1,0,0,0
+2024-25,Calgary,25,Arash Mahjor,Jr,D,5,4,0,0,0
+2024-25,Calgary,18,Josral Frederick,So,F,3,-,1,1,2
+2024-25,Calgary,8,Nahum Tsegai,Sr,D,3,3,0,0,0
+2024-25,Calgary,4,James Welsh,So,D,3,1,0,0,0
+2024-25,Calgary,11,Isaiah Zarate,Fr,M,2,-,0,0,0
+2024-25,Calgary,27,Oliver Allen,So,GK,1,-,0,0,0
+2024-25,Calgary,20,Nicholas Carr,Sr,D,1,-,0,0,0
+2024-25,Victoria,11,Mattheus Achadinha,,D,15,15,2,3,5
+2024-25,Victoria,14,Ole Cameron,,M,15,15,2,1,3
+2024-25,Victoria,18,Alex Moody,,D,15,15,2,1,3
+2024-25,Victoria,7,Yassin Guitouni,,M,14,8,0,1,1
+2024-25,Victoria,19,Harry Ritter West,,F,14,14,1,1,2
+2024-25,Victoria,4,Javier Sagaste,,M,14,14,2,1,3
+2024-25,Victoria,5,Archie Tugwell,,D,14,14,1,0,1
+2024-25,Victoria,2,Fin Tugwell,,D,14,14,1,1,2
+2024-25,Victoria,1,Callum Weir,,GK,14,14,0,0,0
+2024-25,Victoria,20,Evan Larson,,F,13,7,1,1,2
+2024-25,Victoria,17,Matthew Pearse,,M,13,13,6,3,9
+2024-25,Victoria,16,Matteo Hilton,,M,11,3,1,0,1
+2024-25,Victoria,8,Connor Legge,,M,11,11,0,1,1
+2024-25,Victoria,3,Manchand Virk,,D,11,1,1,0,1
+2024-25,Victoria,10,Jack Napier-Ganley,,M,10,1,1,2,3
+2024-25,Victoria,15,Aiden Grew,,D,7,1,0,0,0
+2024-25,Victoria,24,Takin Keshavarz,,M,7,-,1,0,1
+2024-25,Victoria,12,Tristan Cornwell,,D,6,2,0,0,0
+2024-25,Victoria,22,Jag Zaharia,,D,6,-,1,0,1
+2024-25,Victoria,9,Cole Michel,,F,5,2,1,1,2
+2024-25,Victoria,29,Matthew McConnach,,GK,1,1,0,0,0
+2024-25,Victoria,6,Armaan Nijjar,,D,1,-,0,0,0
+2024-25,UNBC,20,James Jordan,So,M,16,16,1,0,1
+2024-25,UNBC,13,Isaac Tate,So,M,16,16,2,4,6
+2024-25,UNBC,6,Luke Graham,Fr,D,15,15,2,0,2
+2024-25,UNBC,8,Hagon Kim,So,D,15,15,1,4,5
+2024-25,UNBC,21,Koss Nystedt,So,D,15,14,0,0,0
+2024-25,UNBC,16,Trevor Scott,So,M,15,14,0,0,0
+2024-25,UNBC,17,Connor Lewis,Sr,M,14,14,4,0,4
+2024-25,UNBC,27,Logan Pierce,So,GK,14,14,0,0,0
+2024-25,UNBC,22,Colin Stauffer,So,M,14,13,0,0,0
+2024-25,UNBC,14,Charlie Stewart,Jr,M,14,7,0,0,0
+2024-25,UNBC,10,Mehdi Bounaaja,Fr,M,13,8,1,1,2
+2024-25,UNBC,9,Cole Gunhold,Fr,S,13,3,0,1,1
+2024-25,UNBC,2,Pipeijn van der Ende,Fr,D,13,13,0,0,0
+2024-25,UNBC,3,Adam Korduner,So,D,11,6,1,0,1
+2024-25,UNBC,15,Anton Zadonsky,So,M,10,1,1,0,1
+2024-25,UNBC,5,Matteo Cuzzetto,Fr,D,8,2,0,0,0
+2024-25,UNBC,12,Jacob Wedel,Fr,D,8,3,0,0,0
+2024-25,UNBC,4,Matt Botelho,Fr,D,5,-,0,0,0
+2024-25,UNBC,1,Yanni Ntapas,Jr,GK,4,2,0,0,0
+2024-25,UNBC,19,Demian Dron,Sr,D,1,-,0,0,0
+2024-25,Alberta,11,Habib Assem,3rd,F,14,7,3,3,6
+2024-25,Alberta,14,Rodane Cato,4th,M,14,14,3,1,4
+2024-25,Alberta,10,Rilind Idrizi,5th,M,14,14,5,4,9
+2024-25,Alberta,16,Prince Amanda,3rd,F,13,8,2,3,5
+2024-25,Alberta,6,Jake Bosch,5th,M,13,13,0,5,5
+2024-25,Alberta,17,Frankroy Cain,2nd,F,13,1,4,1,5
+2024-25,Alberta,23,David Chung,5th,M,13,13,2,1,3
+2024-25,Alberta,1,Liam Collens,5th,GK,13,13,0,0,0
+2024-25,Alberta,4,Patrick Kondraciuk,2nd,D,13,12,1,1,2
+2024-25,Alberta,3,Joel Martins-Correia,3rd,D,13,13,1,0,1
+2024-25,Alberta,12,Caden Ruby,1st,F,13,5,4,1,5
+2024-25,Alberta,9,Marcus Velado-Tsegaye,3rd,F,13,9,5,2,7
+2024-25,Alberta,2,Dylan Marple,2nd,D,12,6,0,0,0
+2024-25,Alberta,8,Thomas Hope,3rd,D,11,11,0,1,1
+2024-25,Alberta,5,Jackson Belbin,2nd,D,9,5,0,1,1
+2024-25,Alberta,19,Eric Normandeau,1st,D,9,9,0,5,5
+2024-25,Alberta,13,Jivan Aulakh,2nd,M,5,-,0,0,0
+2024-25,Alberta,18,Banshjot Gill,1st,D,4,-,0,0,0
+2024-25,Alberta,20,Kyler Kaluzniak,2nd,D,3,-,0,0,0
+2024-25,Alberta,22,Tyler Griffith,4th,GK,1,1,0,0,0
+2024-25,Lethbridge,22,Jeremy Dalla Costa,,D,14,13,1,0,1
+2024-25,Lethbridge,3,Kyle Boell,,D,13,12,1,0,1
+2024-25,Lethbridge,6,Thomas Denness,,D,13,4,0,0,0
+2024-25,Lethbridge,2,Damon Field,,D,13,13,0,0,0
+2024-25,Lethbridge,11,Ben Gingras,,M,13,9,0,0,0
+2024-25,Lethbridge,8,Will Hughes,,D,13,13,0,3,3
+2024-25,Lethbridge,9,Simon Rolfson,,F,13,8,3,0,3
+2024-25,Lethbridge,14,Cole Rosenlund,,M,13,13,0,1,1
+2024-25,Lethbridge,20,Kai Sakaguchi,,F,13,12,2,0,2
+2024-25,Lethbridge,18,Karim Bey,,M,12,12,1,2,3
+2024-25,Lethbridge,19,Nicholas Bilodeau,,D,12,12,0,0,0
+2024-25,Lethbridge,24,Brady Indzeoski,,D,12,2,0,0,0
+2024-25,Lethbridge,30,Armaan Thawer,,GK,12,12,0,0,0
+2024-25,Lethbridge,27,Alex Loturi,,M,11,4,0,0,0
+2024-25,Lethbridge,25,Carson Moore,,F,11,5,0,0,0
+2024-25,Lethbridge,15,Noah Bilodeau,,F,8,2,1,0,1
+2024-25,Lethbridge,13,Andrew Primeau,,D,8,1,0,0,0
+2024-25,Lethbridge,12,Ziad El Hasumi,,D,7,1,0,0,0
+2024-25,Lethbridge,5,Holden Lehr,,F,7,-,1,0,1
+2024-25,Lethbridge,28,Brandon Francis,,F,5,1,0,0,0
+2024-25,Lethbridge,17,Sam Popowich,,F,3,2,0,0,0
+2024-25,Lethbridge,33,Tegan Romaine,,GK,3,2,0,0,0
+2024-25,Lethbridge,21,Cadel Goertzen,,F,1,-,0,0,0
+2024-25,Lethbridge,23,Soren Hendricks,,D,1,-,0,0,0
+2024-25,Lethbridge,16,Nathaniel Riemer,,D,1,-,0,0,0
+2024-25,Lethbridge,7,Adam Turner,,D,1,-,0,0,0
+2024-25,Trinity Western,5,Adam Hajdecki,,DEF,15,15,1,0,1
+2024-25,Trinity Western,20,Jordan Low,,MID,15,14,5,2,7
+2024-25,Trinity Western,8,Xander Roxburgh,,MID,15,6,3,1,4
+2024-25,Trinity Western,19,Mario Banovic,,DEF,14,14,0,0,0
+2024-25,Trinity Western,11,Charles Nana,,FOR,14,11,7,6,13
+2024-25,Trinity Western,10,Thomas Powell,,MID,14,14,0,4,4
+2024-25,Trinity Western,9,Emmanuel Dan-Adokiene,,FOR,13,7,2,0,2
+2024-25,Trinity Western,27,Kieran Eve,,MID,13,9,0,1,1
+2024-25,Trinity Western,26,Malcolm Kengni,,MID,13,7,1,1,2
+2024-25,Trinity Western,17,Christian Rossi,,FOR,13,9,1,0,1
+2024-25,Trinity Western,24,Grant Verhoeven,,MID,13,10,0,0,0
+2024-25,Trinity Western,1,Alexander Cordeiro,,GK,11,11,0,0,0
+2024-25,Trinity Western,22,Francis Powell,,MID,11,11,1,2,3
+2024-25,Trinity Western,6,Joey Seo,,MID,11,9,1,1,2
+2024-25,Trinity Western,16,Kosta Adzic,,DEF,8,6,0,2,2
+2024-25,Trinity Western,21,Luca Alberti,,DEF,8,1,0,0,0
+2024-25,Trinity Western,4,Jonny Grant,,DEF,8,2,0,0,0
+2024-25,Trinity Western,36,David Saavedra,,FOR,6,1,0,0,0
+2024-25,Trinity Western,29,Austin Petri,,GK,5,4,0,0,0
+2024-25,Trinity Western,12,Zachary Stead,,FOR,5,1,1,0,1
+2024-25,Trinity Western,14,Marcel Bona,,MID,3,1,0,0,0
+2024-25,Trinity Western,3,Mikey Dale,,DEF,2,1,0,0,0
+2024-25,Trinity Western,18,Jace Wiebe,,FOR,2,1,0,0,0
+2024-25,Trinity Western,15,Aiden Evans,,DEF,1,-,0,0,0
+2024-25,Trinity Western,32,Josh Reinhard,,DEF,1,-,0,0,0
+2024-25,Saskatchewan,10,Ethan Cabral,,MF,14,14,4,0,4
+2024-25,Saskatchewan,8,Matthew Hnatiw,,MF,14,11,0,0,0
+2024-25,Saskatchewan,2,Robert Mackay,,MF,14,14,1,0,1
+2024-25,Saskatchewan,6,Malcolm Rektor,,MF,14,14,1,1,2
+2024-25,Saskatchewan,11,Ilyich Gharahmadani,,W,13,5,0,0,0
+2024-25,Saskatchewan,12,Luke Mackie,,MF,13,13,1,0,1
+2024-25,Saskatchewan,23,Ryan Ko,,FB,12,8,0,0,0
+2024-25,Saskatchewan,14,Rajesh Rodney,,ST,12,7,0,0,0
+2024-25,Saskatchewan,9,Robert Woodroffe-Brown,,ST,12,9,1,1,2
+2024-25,Saskatchewan,24,Daler Tokhirov,,MF,11,7,1,2,3
+2024-25,Saskatchewan,25,Misgana Killoh,,MF,10,3,0,1,1
+2024-25,Saskatchewan,5,Holden McLeay,,DF,10,6,0,0,0
+2024-25,Saskatchewan,7,Mason Ogoke,,MF,10,10,0,0,0
+2024-25,Saskatchewan,1,Jaron Slopinski,,GK,10,10,0,0,0
+2024-25,Saskatchewan,16,Alessandro Calado,,MF,8,5,0,0,0
+2024-25,Saskatchewan,18,Aydin Wiebe,,FB,8,8,0,0,0
+2024-25,Saskatchewan,17,Sergio Molina,,FB,7,5,0,0,0
+2024-25,Saskatchewan,4,Makariy Pryadko,,FB,5,-,0,0,0
+2024-25,Saskatchewan,32,George Arnold,,GK,4,2,0,0,0
+2024-25,Saskatchewan,15,Ty Lee,,MF,4,1,0,0,0
+2024-25,Saskatchewan,13,Gabriele Altomare,,MF,2,-,0,0,0
+2024-25,Saskatchewan,22,Emmett McGillvray,,GK,2,2,0,0,0
+2024-25,Saskatchewan,20,Kiran Baker,,ST,1,-,0,0,0
+2024-25,Saskatchewan,3,Julian Calderon,,FB,1,-,0,0,0
+2024-25,MacEwan,14,Kayden Dugas,,F,14,13,0,4,4
+2024-25,MacEwan,4,Lucio Rivera,,D,14,14,0,0,0
+2024-25,MacEwan,8,Ali Yildiz,,M,14,14,3,1,4
+2024-25,MacEwan,17,Felix Guité,,M,13,4,1,0,1
+2024-25,MacEwan,11,Nicolas Luczkiewicz,,M,12,11,0,0,0
+2024-25,MacEwan,5,Jakob Sievert,,M,12,12,0,0,0
+2024-25,MacEwan,23,Samuel Vieira,,F,12,10,0,0,0
+2024-25,MacEwan,7,Rakan Yassin,,F,12,12,5,3,8
+2024-25,MacEwan,3,Jamal Ajab,,M,10,9,0,1,1
+2024-25,MacEwan,22,Oleksandr Popravka,,GK,10,10,0,0,0
+2024-25,MacEwan,15,Abhiroop Sandhu,,M,10,1,1,0,1
+2024-25,MacEwan,34,Philip Wutzl,,D,10,10,0,0,0
+2024-25,MacEwan,28,Chance Carter,,M,8,7,3,2,5
+2024-25,MacEwan,13,Logan Klapstein,,M,8,7,1,0,1
+2024-25,MacEwan,20,Stewart Jamieson,,D,5,3,0,0,0
+2024-25,MacEwan,16,Zewdu Mekonnen,,F,5,2,0,0,0
+2024-25,MacEwan,26,Alain Sitchet,,F,5,2,0,0,0
+2024-25,MacEwan,27,Liam Van Laar,,D,5,1,0,0,0
+2024-25,MacEwan,6,Abass Ajibade,,M,4,4,0,0,0
+2024-25,MacEwan,19,T-boy Fayia,,D,3,3,0,0,0
+2024-25,MacEwan,18,Miles Frett-Baptiste,,F,3,-,0,0,0
+2024-25,MacEwan,35,Kaleb Lutz,,GK,3,2,0,0,0
+2024-25,MacEwan,30,David Sithole,,GK,2,2,0,0,0
+2024-25,Thompson Rivers,19,Marcus D'Andrea,,M,16,16,0,0,0
+2024-25,Thompson Rivers,10,Minwoo Kang,,M,16,13,1,0,1
+2024-25,Thompson Rivers,11,Ryan Olak,,M,15,8,2,0,2
+2024-25,Thompson Rivers,5,Elijah Dos Santos,,D,14,14,1,1,2
+2024-25,Thompson Rivers,21,Mel Nelissen,,M,14,5,0,0,0
+2024-25,Thompson Rivers,12,Jonathan Rinaldi,,M,14,14,2,1,3
+2024-25,Thompson Rivers,8,Mikkel Rosenlund,,D,14,14,0,0,0
+2024-25,Thompson Rivers,18,Ranjeet Brar,,M,13,12,0,2,2
+2024-25,Thompson Rivers,27,Abdel Coulibaly,,D,13,11,3,2,5
+2024-25,Thompson Rivers,6,Zach Hamedi,,M,13,9,0,0,0
+2024-25,Thompson Rivers,23,Soren Kaczor,,M,11,5,0,1,1
+2024-25,Thompson Rivers,25,Lucas Kirnon,,D,11,11,0,1,1
+2024-25,Thompson Rivers,22,Tommy Moon,,M,11,2,0,0,0
+2024-25,Thompson Rivers,1,Luca Ortu,,GK,11,10,0,0,0
+2024-25,Thompson Rivers,2,Domenico Comita,,M,10,10,0,1,1
+2024-25,Thompson Rivers,16,Kaleem Remekie,,F,10,3,0,0,0
+2024-25,Thompson Rivers,3,Liam Freathy,,D,9,4,0,1,1
+2024-25,Thompson Rivers,26,Aren Christianson,,D,8,4,0,0,0
+2024-25,Thompson Rivers,30,Olivier Jumeau,,GK,6,6,0,0,0
+2024-25,Thompson Rivers,14,Alvin Crofoot,,D,5,-,0,0,0
+2024-25,Thompson Rivers,9,Lachlan Will,,F,5,5,2,0,2
+2024-25,Thompson Rivers,15,Lucas Rinaldi,,M,1,-,0,0,0
