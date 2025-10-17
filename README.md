@@ -14,7 +14,7 @@ Over time, it evolved into a **multi-stage analytics system** that now includes:
 
 - automated scraping of **match boxscores, lineups, and player stats** for three seasons (2023–24 to 2025–26),  
 - intelligent **feature engineering** that merges team and player data,  
-- multiple trained models — one for **pre-match prediction** and one for **post-match lineup analysis**,  
+- multiple trained models one for **pre-match prediction** and one for **post-match lineup analysis**,  
 - an interactive **Streamlit dashboard** with visual analytics, team comparisons, and lineup swap simulations.
 
 ---
@@ -76,7 +76,7 @@ README.md
 
 ## Streamlit Application
 
-### Tab 1 — **Match Prediction**
+### Tab 1 **Match Prediction**
 Predicts outcomes between two teams before kickoff.
 
 Includes:
@@ -87,7 +87,7 @@ Includes:
 - **Feature Importance** visualization
 - **League Context** scatter plot showing how the selected teams compare across all matches
 
-### Tab 2 — **Player Swap Analysis**
+### Tab 2 **Player Swap Analysis**
 Simulates the impact of changing a player in the lineup.
 
 Includes:
