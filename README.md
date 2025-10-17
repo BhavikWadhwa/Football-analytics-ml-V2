@@ -1,4 +1,5 @@
 # Football Match Prediction & Lineup Analysis
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://football-analytics-ml-v2.streamlit.app)
 
 ### Built by [Bhavik Wadhwa](https://github.com/bhavikwadhwa)
 
