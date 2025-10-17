@@ -202,7 +202,7 @@ Build an AI-powered commentary generator based on match data.
 ### Summary
 
 This project combines data engineering, machine learning, and UI design to showcase what’s possible when analytics meets sports insight.
-It represents three complete development cycles — from raw scraping to refined modeling and presentation.
+It represents three complete development cycles from raw scraping to refined modeling and presentation.
 
 ### Author
 
