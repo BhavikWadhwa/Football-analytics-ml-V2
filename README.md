@@ -3,7 +3,7 @@
 ### Built by [Bhavik Wadhwa](https://github.com/bhavikwadhwa)
 
 A complete end-to-end football analytics platform that combines **data scraping, machine learning, and interactive visualization**.  
-It predicts match outcomes in Canada West soccer and simulates **how changing player lineups could alter the result** — built with Python, Pandas, Scikit-learn, and Streamlit.
+It predicts match outcomes in Canada West soccer and simulates **how changing player lineups could alter the result** built with Python, Pandas, Scikit-learn, and Streamlit.
 
 ---
 
