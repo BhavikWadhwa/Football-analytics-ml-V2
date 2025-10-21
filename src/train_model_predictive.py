@@ -85,4 +85,4 @@ joblib.dump(le, label_path)
 
 print("Predictive model saved to {model_path}")
 print("Label encoder saved to {label_path}")
-print("You can now load these in app.py for pre-match prediction.")
+
