@@ -13,7 +13,7 @@ import os
 data_path = os.path.join("data", "features_opponent.csv")
 df = pd.read_csv(data_path)
 
-print(f"✅ Loaded dataset with {len(df)} rows and {len(df.columns)} columns")
+print("Loaded dataset with {len(df)} rows and {len(df.columns)} columns")
 
 # ----------------------------
 # 2. Select features + target
@@ -62,7 +62,7 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 acc = accuracy_score(y_test, y_pred)
 
-print("\n🎯 Model Performance:")
+print("Model Performance:")
 print(f"Accuracy: {acc:.3f}")
 print("\nClassification Report:\n", classification_report(y_test, y_pred, target_names=le.classes_))
 print("\nConfusion Matrix:\n", confusion_matrix(y_test, y_pred))
@@ -78,6 +78,6 @@ label_path = os.path.join("models", "label_encoder_postmatch.pkl")
 joblib.dump(model, model_path)
 joblib.dump(le, label_path)
 
-print(f"\n✅ Analytic model saved to {model_path}")
-print(f"✅ Label encoder saved to {label_path}")
-print("You can now load these in app.py for post-match analysis.")
+print("Analytic model saved to {model_path}")
+print("Label encoder saved to {label_path}")
+
